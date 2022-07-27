@@ -216,5 +216,12 @@
       "email": "Toan@gmail.com",
       "id": 1
     }
-  ]
+  ],
+    "comment": [
+        {
+            "id": 1,
+            "content": "New comment",
+            "user": "Toan"
+        }
+    ]
 }
