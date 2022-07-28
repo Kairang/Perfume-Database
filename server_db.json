@@ -1,181 +1,224 @@
 {
   "products": [
     {
+      "name": "Chanel Chance Eau de Parfum",
+      "description": "Sẽ không có gì xa lạ khi bạn bắt gặp những “thành viên\" với vẻ ngoài góc cạnh, mang hơi thở nồng nàn, mạnh mẽ, chứa đựng cái tôi đầy độc lập và sắc sảo trong “gia tộc nước hoa xa xỉ bậc nhất” - Chanel. Thế nhưng, Chanel Chance Eau Parfum lại chọn cho mình một lối đi hoàn toàn khác hẳn. Như được ấn định những may mắn, niềm vui, “cơ hội” từ lúc chào đời, Chanel Chance Eau Parfum được thiết kế theo hình tròn - vòng tròn của sự may mắn, phúc hậu và thực sự vẹn toàn.\nCó vẻ như nhà chế tác nước hoa đình đám Jacques Polge đã quyết định tạo nên dấu ấn riêng biệt khi “rước về\" một nàng thơ dịu dàng, e ấp và chưa từng xuất hiện trong gia đình Chanel. Nàng thơ ấy bước đến bằng sự dịu dàng, mang theo làn hương nhẹ tựa vô hình, vô định để rồi nhận lại là những ánh mắt đắm say. Chance Eau Parfum mỏng manh như sương mai trong nắng sớm, như cơn gió nhè nhẹ giữa ngày Hè, như âm vị ấm áp của Hồ tiêu thi thoảng thoáng qua rất đỗi bình dị và ung dung.",
+      "category": "women's",
+      "brand": "chanel",
+      "price": 3600000,
+      "capacity": 100,
+      "srcImage": "https://product.hstatic.net/1000340570/product/chanel-chance-eau-de-parfum_05321c8bb4144286babba8159091fb88_master.jpg",
       "id": 1,
-      "tags": "sale",
-      "title": "Dauntless Styling Foam",
-      "img": "https://clmensstore.com/wp-content/uploads/2021/11/Dauntless-Styling-Foam-Sprezstyle-Men-s-Grooming.jpg",
-      "price": 450000,
-      "trademark": "DAUNTLESS GROOMING",
-      "capacity": "5oz/133ml",
-      "produce": "Pháp",
-      "desc": "Giorgio Armani là một nhà thiết kế thời trang người Ý đặc biệt được chú ý với trang phục nam giới của mình. Armani bắt đầu sự nghiệp của mình với tư cách là nhà thiết kế cửa sổ trong một cửa hàng bách hóa và làm việc theo cách của mình để trở thành người mua quần áo nam. Từ năm 1960 đến năm 1972, ông là nhà thiết kế cho nhà thiết kế nổi tiếng Nino Cerutti và sau đó làm nhà thiết kế độc lập cho một số hãng thời trang trước khi thành lập thương hiệu của riêng mình. Ông trình làng bộ sưu tập quần áo nam đầu tiên của mình vào năm 1975, tiếp theo là dòng dành cho nữ giới cùng năm đó. Armani đã thu hút được nhiều khán giả hơn cho tác phẩm của mình với bộ phim nổi tiếng “American Gigolo”, trong đó nhân vật của Richard Gere mặc những thiết kế Armani sang trọng. Đây là lần đầu tiên trong nhiều bộ phim hợp tác trong tương lai."
+      "tags": ["women", "winter", "spring"]
     },
     {
+      "name": "YSL La Nuit de L'Homme Le Parfum",
+      "description": "Mang tới dòng hương Oriental Fougere đến từ phương Đông, siêu phẩm La Nuit de L’Homme Le Parfum của Yves Saint Laurent như một bằng chứng thể hiện bản lĩnh và sức mạnh của người đàn ông thời hiện đại.\n\nMột trong những chai nước hoa được ưa chuộng nhất ngay tại thời điểm vừa ra mắt năm 2010, tạo ra sự cân bằng với thiết kế bắt mắt khi thân chai có hình trụ cùng chiếc nắp hình lục giác. La Nuit de L’Homme như lời tuyên bố hương thơm bên trong của mình vô cùng nam tính tính và mạnh mẽ khi lấy tông màu đen làm điểm nhấn cho toàn bộ thiết kế bên ngoài.",
+      "category": "men's",
+      "brand": "ysl",
+      "price": 2500000,
+      "capacity": 100,
+      "srcImage": "https://product.hstatic.net/1000340570/product/la-nuit-de-l_homme-le-parfum-eau-de-parfum_7e282e95fe6548799b7fdf7881a50517_master.jpg",
       "id": 2,
-      "tags": "new",
-      "title": "Dauntless Styling Foam",
-      "img": "https://clmensstore.com/wp-content/uploads/2021/11/Dauntless-Styling-Foam-Sprezstyle-Men-s-Grooming.jpg",
-      "price": 450000,
-      "trademark": "DAUNTLESS GROOMING",
-      "capacity": "5oz/133ml",
-      "produce": "Việt Nam",
-      "desc": "Giorgio Armani là một nhà thiết kế thời trang người Ý đặc biệt được chú ý với trang phục nam giới của mình. Armani bắt đầu sự nghiệp của mình với tư cách là nhà thiết kế cửa sổ trong một cửa hàng bách hóa và làm việc theo cách của mình để trở thành người mua quần áo nam. Từ năm 1960 đến năm 1972, ông là nhà thiết kế cho nhà thiết kế nổi tiếng Nino Cerutti và sau đó làm nhà thiết kế độc lập cho một số hãng thời trang trước khi thành lập thương hiệu của riêng mình. Ông trình làng bộ sưu tập quần áo nam đầu tiên của mình vào năm 1975, tiếp theo là dòng dành cho nữ giới cùng năm đó. Armani đã thu hút được nhiều khán giả hơn cho tác phẩm của mình với bộ phim nổi tiếng “American Gigolo”, trong đó nhân vật của Richard Gere mặc những thiết kế Armani sang trọng. Đây là lần đầu tiên trong nhiều bộ phim hợp tác trong tương lai."
+      "tags": ["autumn", "women", "winter"]
     },
     {
+      "name": "YSL Mon Paris Intensement",
+      "description": "Yves Saint Laurent Mon Paris Intensement",
+      "category": "women's",
+      "brand": "ysl",
+      "price": 2600000,
+      "capacity": 90,
+      "srcImage": "https://product.hstatic.net/1000340570/product/yves-saint-laurent-mon-paris-intensement-90ml_3f4a0a32c7dc49d7a218ce03eb5b3826_master.jpg",
       "id": 3,
-      "tags": "new",
-      "title": "Dauntless Styling Foam2",
-      "img": "https://clmensstore.com/wp-content/uploads/2021/11/Dauntless-Styling-Foam-Sprezstyle-Men-s-Grooming.jpg",
-      "price": 450000,
-      "trademark": "DAUNTLESS GROOMING",
-      "capacity": "5oz/133ml",
-      "produce": "Ý",
-      "desc": "Giorgio Armani là một nhà thiết kế thời trang người Ý đặc biệt được chú ý với trang phục nam giới của mình. Armani bắt đầu sự nghiệp của mình với tư cách là nhà thiết kế cửa sổ trong một cửa hàng bách hóa và làm việc theo cách của mình để trở thành người mua quần áo nam. Từ năm 1960 đến năm 1972, ông là nhà thiết kế cho nhà thiết kế nổi tiếng Nino Cerutti và sau đó làm nhà thiết kế độc lập cho một số hãng thời trang trước khi thành lập thương hiệu của riêng mình. Ông trình làng bộ sưu tập quần áo nam đầu tiên của mình vào năm 1975, tiếp theo là dòng dành cho nữ giới cùng năm đó. Armani đã thu hút được nhiều khán giả hơn cho tác phẩm của mình với bộ phim nổi tiếng “American Gigolo”, trong đó nhân vật của Richard Gere mặc những thiết kế Armani sang trọng. Đây là lần đầu tiên trong nhiều bộ phim hợp tác trong tương lai."
+      "tags": ["winter", "autumn", "summer", "new", "women"]
     },
     {
+      "name": "YSL L'Homme Le Parfum 2020",
+      "description": "Với Yves Saint Laurent L'Homme Le Parfum 2020, cũng như bao mùi hương khác, L'Homme Le Parfum cũng gắt gao lựa chọn “đối tượng\" cho riêng mình. Một người đủ nhiệt huyết và tràn trề nhựa sống để có thể xứng đôi với tông vị thanh mát của Chanh vàng và Bạch đậu khấu trong tầng hương đầu, nhưng chỉ trẻ trung thôi vẫn chưa đủ.",
+      "category": "men's",
+      "brand": "ysl",
+      "price": 2300000,
+      "capacity": 100,
+      "srcImage": "https://product.hstatic.net/1000340570/product/32bcb97d7e0b4b208818cbb9c4a21e8e_b9204e9ae2604d6d98d6bdb6ca55c0be_master.jpg",
       "id": 4,
-      "tags": "sale",
-      "title": "A City On Fire – Imaginary Authors | 10ml – 50ml",
-      "img": "https://clmensstore.com/wp-content/uploads/2022/01/city-on-fire.jpg",
-      "price": 620000,
-      "trademark": "CHELSEA",
-      "capacity": "5oz/133ml",
-      "produce": "Mỹ",
-      "desc": "Giorgio Armani là một nhà thiết kế thời trang người Ý đặc biệt được chú ý với trang phục nam giới của mình. Armani bắt đầu sự nghiệp của mình với tư cách là nhà thiết kế cửa sổ trong một cửa hàng bách hóa và làm việc theo cách của mình để trở thành người mua quần áo nam. Từ năm 1960 đến năm 1972, ông là nhà thiết kế cho nhà thiết kế nổi tiếng Nino Cerutti và sau đó làm nhà thiết kế độc lập cho một số hãng thời trang trước khi thành lập thương hiệu của riêng mình. Ông trình làng bộ sưu tập quần áo nam đầu tiên của mình vào năm 1975, tiếp theo là dòng dành cho nữ giới cùng năm đó. Armani đã thu hút được nhiều khán giả hơn cho tác phẩm của mình với bộ phim nổi tiếng “American Gigolo”, trong đó nhân vật của Richard Gere mặc những thiết kế Armani sang trọng. Đây là lần đầu tiên trong nhiều bộ phim hợp tác trong tương lai."
+      "tags": ["winter", "autumn", "men", "new"]
     },
     {
+      "name": "Gucci Flora Gracious Tuberose",
+      "description": "Hương đầu: Lá hoa tím, Quà đào\nHương giữa: Hoa huệ, Hoa cam, Hoa hồng\nHương cuối: Gỗ tuyết tùng, Labdanum\n\nNếu mùi hương của Gỗ có thể làm ta cảm thấy tĩnh tại và an yên ngay tắp lự, thì hương Hoa lại là thứ thần dược khiến ta bay bổng, hứng khởi và tràn đầy say mê. Và điều này cũng không ngoại lệ với Gucci Flora Gracious Tuberose, hương hoa của sự sống, tôi có thể nói là vậy.",
+      "category": "women's",
+      "brand": "gucci",
+      "price": 2600000,
+      "capacity": 100,
+      "srcImage": "https://product.hstatic.net/1000340570/product/gucci-flora-gracious-tuberose_ded90e4cacd9422fb2a8f8d7f70ec34b_master.jpg",
       "id": 5,
-      "tags": "sale",
-      "title": "Mancera Paris Cedrat Boise EDP – 120ML",
-      "img": "https://clmensstore.com/wp-content/uploads/2019/08/Mancera-Paris-Cedrat-Boise-EDP-2.png",
-      "price": 320000,
-      "trademark": "MANCERA PARIS",
-      "capacity": "5oz/133ml",
-      "produce": "Hà Lan",
-      "desc": "Mancera Paris Cedrat Boise EDP –  Siêu phẩm mới về từ hãng Mancera đến từ Paris xa hoa và tráng lệ. Một mùi hương không sinh ra để dành cho đám đông nhưng có ma thuật làm cho người sử dụng phải vân vương sau vài lần thưởng thức mùi hương này."
+      "tags": ["women", "autumn", "winter", "best seller"]
     },
     {
+      "name": "Gucci Moonlight Serenade Scented Water",
+      "description": "Hương chính: Oải hương, Cây xô thơm, đậu Tonka.\n\nBộ sưu tập xa xỉ này được lấy cảm hứng từ xu hướng mới nhất của cách layer mùi hương và bao gồm bảy loại Eau de Parfum, bốn loại tinh dầu nước hoa và ba loại \"nước thơm\". Dòng Gucci được lấy cảm hứng từ nghệ thuật giả kim và nghệ thuật tác chế hương thơm, và nó được thiết kế để được phân lớp và pha trộn với nhau để tạo ra một sự kết hợp hương thơm cá nhân và độc đáo.",
+      "category": "women's",
+      "brand": "gucci",
+      "price": 6200000,
+      "capacity": 150,
+      "srcImage": "https://product.hstatic.net/1000340570/product/guccimoonlight-serenade-scented-water-150ml_3898bba1f1ef4559b9b99d28c036388d_master.jpg",
       "id": 6,
-      "tags": "sale",
-      "title": "Acqua di Gio Profondo by Giorgio Armani | 10ml – 75ml – 125ml",
-      "img": "https://clmensstore.com/wp-content/uploads/2022/05/acqua-di-gio-profondo.jpg",
-      "price": 3100000,
-      "trademark": "GIORGIO ARMANI",
-      "capacity": "5oz/133ml",
-      "produce": "Pháp",
-      "desc": "Giorgio Armani là một nhà thiết kế thời trang người Ý đặc biệt được chú ý với trang phục nam giới của mình. Armani bắt đầu sự nghiệp của mình với tư cách là nhà thiết kế cửa sổ trong một cửa hàng bách hóa và làm việc theo cách của mình để trở thành người mua quần áo nam. Từ năm 1960 đến năm 1972, ông là nhà thiết kế cho nhà thiết kế nổi tiếng Nino Cerutti và sau đó làm nhà thiết kế độc lập cho một số hãng thời trang trước khi thành lập thương hiệu của riêng mình. Ông trình làng bộ sưu tập quần áo nam đầu tiên của mình vào năm 1975, tiếp theo là dòng dành cho nữ giới cùng năm đó. Armani đã thu hút được nhiều khán giả hơn cho tác phẩm của mình với bộ phim nổi tiếng “American Gigolo”, trong đó nhân vật của Richard Gere mặc những thiết kế Armani sang trọng. Đây là lần đầu tiên trong nhiều bộ phim hợp tác trong tương lai."
+      "tags": ["new", "spring", "women", "autumn"]
     },
     {
-      "id": 7,
-      "tags": "sale",
-      "title": "One Million |10ml – 100ml",
-      "img": "https://clmensstore.com/wp-content/uploads/2020/01/One-Million.png",
-      "price": 1900000,
-      "trademark": "PACO RABANNE",
-      "capacity": "5oz/133ml",
-      "produce": "Chile",
-      "desc": "Câu nói bất hũ của nhà sáng tạo Paco Rabanne đã nói “trong tất cả các nền văn minh và tôn giáo, vàng luôn luôn được tích trữ và làm mọi người say mê”. Vàng ở xung quanh chúng ta, mọi nơi trên thế giới: trong  thiết kế, trong kiến trúc đồ,  trong nữ trang, quần áo và phụ kiện… Vàng luôn tạo ra sự chú ý đặc biệt và luôn thể hiện được sự cao cấp và quý phái."
-    },
-    {
-      "id": 8,
-      "tags": "new",
-      "title": "AQVA POUR HOMME",
-      "img": "https://clmensstore.com/wp-content/uploads/2019/04/aqva.png",
-      "price": 2100000,
-      "trademark": "BVLGARI",
-      "capacity": "5oz/133ml",
-      "produce": "Đức",
-      "desc": "Nước hoa Aqva Pour Homme của Bvlgari là một mẩu nước hoa thuộc nhóm hương hoa nước – ngát hương, mang đến cảm giác tràn đây sức sống, tươi mát. Hương thơm tinh khiết của quýt và chiết xuất tinh dầu lá chanh hòa quyện với hương hổ phách khơi dậy hương thơm trong lành tươi mớ cùng với hương biển mát mẻ."
-    },
-    {
-      "id": 9,
-      "tags": "new",
-      "title": "Dior Sauvage EDP | 10ml – 200ml",
-      "img": "https://clmensstore.com/wp-content/uploads/2019/08/Dior-Sauvage-EDP.png",
-      "price": 5000000,
-      "trademark": "DIOR",
-      "capacity": "5oz/133ml",
-      "produce": "Anh",
-      "desc": "Nếu Dior Sauvage EDT tỏa ra mùi hương tươi mát, trẻ trung, cá tính. Thì Dior Sauvage EDP lại cho thấy một người đàn ông trưởng thành và bản lĩnh.Sự tươi mát mạnh mẽ của Dior Sauvage EDP toát lên các khía cạnh gợi cảm và bí ẩn mới, đổi mới dấu ấn của nó với một thành phần khéo léo. Thành phần được giữ ở phiên bản gốc gồm cam bergamot, ngon ngọt và kích thích tinh thần hơn bao giờ hết, những note cay mới để thêm vào sự sung mãn và gợi cảm, như một đường mòn màu hổ phách của ambroxan được bọc trong những note hương ngọt ngào của vanilla. François Demachy, là nhà sáng chế nước hoa tài ba, đã lấy cảm hứng từ sa mạc trong cảnh hoàng hôn. Ông đã pha trộn sự mát mẻ của ban đêm, không khí nóng bỏng của sa mạc để hòa quyện và đốt cháy để toát lên mùi hương sâu sắc. Trong thời gian khi thiên nhiên thức dậy và bầu trời đang lên, một ma thuật mới lại mở ra."
-    },
-    {
-      "id": 10,
-      "tags": "new",
-      "title": "TERRE D’HERMES – EDT",
-      "img": "https://clmensstore.com/wp-content/uploads/2019/03/TERRE-DHERMES-–-EDT.png",
+      "name": "Gucci Bloom Profumo Di Fiori",
+      "description": "Hương đầu: Tinh chất hoa nhài Sambac, Rangoon Creeper (Chinese Osmanthus)\nHương giữa: Ylang-Ylang, Hoa huệ tự nhiên, Nụ hoa nhài\nHương cuối: Gỗ đàn hương, gỗ ướt đẫm nắng, Orris, Benzoin, Musks\n\nDòng nước hoa nổi tiếng của GUCCI BLOOM, bắt đầu với dòng nước hoa Gucci Bloom đầu tiên vào năm 2017 lại một lần nữa khuấy động không khí mùa Hè trong năm 2020 với mùi hương GUCCI BLOOM PROFUMO DI FIORI. “Gương mặt mới” trong địa đàng Gucci Bloom mê hoặc khứu giác bởi hương thơm nhiệt đới ấm áp và cảm hứng đầy kích thích từ hoa ylang-ylang pha trộn với những bông hoa trắng say đắm và hợp âm vốn đã nổi tiếng được tìm thấy trong tất cả các loại nước hoa Gucci Bloom: rangoon creeper, còn được gọi là osmanthus Trung Quốc (Combretum indicum), cây nho đỏ cụm hoa và có nguồn gốc từ vùng nhiệt đới châu Á.",
+      "category": "women's",
+      "brand": "gucci",
       "price": 3500000,
-      "trademark": "HERMÈS",
-      "capacity": "5oz/133ml",
-      "produce": "Pháp",
-      "desc": "Hương thơm đặc trưng của chi Cam Chanh kết hợp cùng hương vị cay cay của Tiêu (Pepper) và gỗ Tuyết Tùng (Cedar) khiến tổng thể hương vị trở nên đậm đà, bền bỉ và mạnh mẽ tỏa hương tạo cảm giác rất thanh lịch, sang trọng. Sau 1 thời gian, bạn sẽ cảm nhận được thêm hương thơm đặc trưng của Hoắc Hương (Patchouli)."
+      "capacity": 100,
+      "srcImage": "https://product.hstatic.net/1000340570/product/gucci-bloom-profumo-di-fiori-30ml_f27dc29088f048b1a3418d5501030621_master.jpg",
+      "id": 7,
+      "tags": ["women", "autumn", "spring", "new"]
     },
     {
+      "name": "Versace Eros Parfum",
+      "description": "Thương hiệu\nVersace\nXuất xứ\nÝ\nNăm phát hành\n2021\nNhóm hương\nĐậi tonka, Hổ phách, Táo xanh\nPhong cách\nNam tính, Mạnh mẽ, Cuốn hút",
+      "category": "men's",
+      "brand": "versace",
+      "price": 2700000,
+      "capacity": 100,
+      "srcImage": "https://product.hstatic.net/1000340570/product/eros-parfum-box-_b94579cb6bb246d98166e03ddf31d973_master.jpg",
+      "id": 8,
+      "tags": ["new", "men", "autumn", "winter", "new"]
+    },
+    {
+      "name": "Versace Pour Homme",
+      "description": "Hương đầu: Quả chanh vàng, Cam Bergamot, Neroli, Hoa hồng tháng 5. \n\nHương giữa: Hoa lục bình, Gỗ tuyết tùng, Xô thơm, Hoa phong lữ. \n\nHương cuối: Đậu Tonka, Xạ hương, Amber. \n\nĐến từ bàn tay của nhà điều hương được mệnh danh là “chuyên gia hương tươi” Alberto Morillas, Versace Pour Homme đem tới cho phải mạnh một mùi hương Aromatic Fougere (Thảo mộc - Dương xỉ) nhẹ nhàng và đầy thanh lịch. ",
+      "category": "men's",
+      "brand": "versace",
+      "price": 1800000,
+      "capacity": 100,
+      "srcImage": "https://product.hstatic.net/1000340570/product/versace-pour-homme-5ml_4f5a3167c830426983deecb1b85b03e0.jpg",
+      "id": 9,
+      "tags": ["new", "men", "winter", "spring", "new"]
+    },
+    {
+      "name": "Versace Bright Crystal",
+      "description": "Hương đầu: Lựu, Yuzu, Nước đá\nHương giữa: Hoa Sen, Hoa Mẫu Đơn, Hoa Mộc Lan\nHương cuối: Hổ phách, Xạ hương, Gỗ Gụ\n\nNếu như Xuân được xem là mùa đẹp nhất trong năm, là mùa mà vạn vật đều xao xuyến và nao nức mỗi khi nhắc đến. Thì Versace Bright Crystal được ví như là mùi của mùa Xuân, mùi của sự khởi đầu cho những điều đẹp đẽ nhất.",
+      "category": "women's",
+      "brand": "versace",
+      "price": 1200000,
+      "capacity": 30,
+      "srcImage": "https://product.hstatic.net/1000340570/product/versace-bright-crystal-200ml_2a7b83967e834258900f17f2447005a8_master.jpg",
+      "id": 10,
+      "tags": ["new", "women", "autumn", "spring", "best seller"]
+    },
+    {
+      "name": "Prada Luna Rossa Sport Eau de Toilette",
+      "description": "Hương đầu: Quả bách xù và gừng\nHương giữa: Hoa oải hương\nHương cuối: Đậu Tonka và Vanila.\n\nPrada Luna Rossa Sport là mùi hương mới nằm trong bộ sưu tập Luna Rossa mở rộng của nhà Prada sau khi phiên bản đầu tiên được ra mắt vào năm 2012, bao gồm: Luna Rossa 34th American's cup limited edition và Luna Rossa Extreme ra mắt cùng năm 2013.",
+      "category": "women's",
+      "brand": "prada",
+      "price": 2500000,
+      "capacity": 100,
+      "srcImage": "https://product.hstatic.net/1000340570/product/prada-luna-rossa-sport-eau-de-toilette-100ml_b7576b93acb04da3ab501b74ee55aedc_master.jpg",
       "id": 11,
-      "tags": "best-seller",
-      "title": "TERRE D’HERMES – EDT",
-      "img": "https://clmensstore.com/wp-content/uploads/2019/03/TERRE-DHERMES-–-EDT.png",
-      "price": 3550000,
-      "trademark": "HERMÈS",
-      "capacity": "5oz/133ml",
-      "produce": "Pháp",
-      "desc": "Hương thơm đặc trưng của chi Cam Chanh kết hợp cùng hương vị cay cay của Tiêu (Pepper) và gỗ Tuyết Tùng (Cedar) khiến tổng thể hương vị trở nên đậm đà, bền bỉ và mạnh mẽ tỏa hương tạo cảm giác rất thanh lịch, sang trọng. Sau 1 thời gian, bạn sẽ cảm nhận được thêm hương thơm đặc trưng của Hoắc Hương (Patchouli)."
-    }
-  ],
-  "users": [
-    {
-      "email": "Toan@gmail.com",
-      "password": "123456",
-      "phone": "0832845357",
-      "mail": "toan@gmail.com",
-      "address": "137 Nguyễn Thị Thập - p.Hòa Minh - Liên Chiểu - Đà Nẵng",
-      "gender": "male",
-      "id": 1
+      "tags": ["best-seller", "new", "men", "autumn", "winter"]
     },
     {
-      "email": "Quynh@gmail.com",
-      "password": "654321",
-      "phone": "0832845357",
-      "mail": "q@gmail.com",
-      "address": "137 Nguyễn Thị Thập - p.Hòa Minh - Liên Chiểu - Đà Nẵng",
-      "gender": "female",
-      "id": 2
+      "name": "Prada La Femme Water Splash",
+      "description": "Hương đầu: Lá Quýt, Quả Quýt\nHương giữa:  Hoa Sử, Mộc Lan, Lily of the Valley\nHương cuối: Gỗ Đàn Hương, Nốt Hương Xanh \n\nÝ tưởng dòng nước hoa phiên bản giới hạn mới nhất của Prada - La Femme Prada Water Splash vẽ nên một bức tranh sắc nét về một kỳ nghỉ lý tưởng: Mùi hương này là sự pha trộn giữa sự ấm áp và mát mẻ sảng khoái, tái hiện lại cảm giác những ngày nằm trên bãi biển rộng, làn nước rực rỡ, những cơn sóng rì rào, làn gió đưa đẩy và ánh nắng chiếu qua kẽ lá chạm đến làn da.",
+      "category": "women's",
+      "brand": "prada",
+      "price": 2300000,
+      "capacity": 150,
+      "srcImage": "https://product.hstatic.net/1000340570/product/prada_la_femme_water_splash_for_women_edt_6a4ab6de2eb1470d86b09b171f96280a_master.jpg",
+      "id": "1658990861554",
+      "tags": ["new", "women", "autumn", "summer", "spring"]
     },
     {
-      "email": "Tai@gmail.com",
-      "password": "123456",
-      "phone": "0832845357",
-      "mail": "t@gmail.com",
-      "address": "137 Nguyễn Thị Thập - p.Hòa Minh - Liên Chiểu - Đà Nẵng",
-      "gender": "female",
-      "id": 3
-    }
-  ],
-  "login": [
-    {
-      "email": "Quỳnh@gmail.com",
-      "password": "123456",
-      "id": 1
+      "name": "Prada L'Homme Intense",
+      "description": "Hương Đầu: Hoa Diên Vĩ\nHương Giữa: Quảng Hoắc Hương, Hổ Phách\nHương Cuối: Da Thuộc, Đậu Tonka, Gỗ Đàn Hương\n\nBộ đôi nước hoa mới của Prada, Prada La Femme và Prada L'Homme, ra mắt thị trường vào giữa năm 2016. Một năm sau, các chế phẩm được cải tiến ở nồng độ Eau de Parfum Intense và đã mang lại những tiếng tăm vang dội trong giới mộ điệu mùi hương",
+      "category": "men's",
+      "brand": "prada",
+      "price": 2300000,
+      "capacity": 100,
+      "srcImage": "https://product.hstatic.net/1000340570/product/prada-l_homme-intense-100ml_9de992acd705435db4070c08f64e2680_master.jpg",
+      "id": "1658991295712",
+      "tags": ["men", "winter", "summer", "new"]
     },
     {
-      "email": "Quynh@gmail.com",
-      "password": "123456",
-      "id": 2
+      "name": "Chanel No 5 Eau Premiere EDP",
+      "description": "Notes list:\nHương đầu: Aldehydes, Hoa hoàng lan, Hoa cam.\nHương giữa: Hoa nhài, Hoa hồng.\nHương cuối: Vanilla, Gỗ đàn hương, Cỏ hương bài.\n\nChanel No 5 Eau Premiere Eau de Parfum được ra mắt năm 2015, là một mùi hương thuộc nhóm Hương hoa – An đê hít (Floral – Aldehydé), flanker của mùi hương huyền thoại Chanel No 5 của nhà mốt Pháp Chanel. Chanel No 5 Eau Premiere Eau de Parfum được pha chể qua chiếc mũi của Jacques Polge, được giới thiệu như là một mùi hương mang DNA của No 5 với các notes hương chính của người chị cả vượt thời gian nhưng được phối hợp hài hòa và tinh tế hơn, đem lại một cảm giác hiện đại hơn, nhẹ nhàng hơn.",
+      "category": "women's",
+      "brand": "chanel",
+      "price": 2500000,
+      "capacity": 50,
+      "srcImage": "https://product.hstatic.net/1000340570/product/chanel-no-5-eau-premiere-eau-de-parfum-50ml_34baf822c99142d0ba15f775e97aba44_master.jpg",
+      "id": "1658991413703",
+      "tags": ["women", "winter", "spring", "best seller"]
     },
     {
-      "email": "Tai@gmail.com",
-      "password": "123456",
-      "id": 3
+      "name": "Chanel Chance Eau Tendre Eau de Toilette",
+      "description": "Nốt hương đầu : Bưởi , Mộc qua\nNốt hương giữa : Nhài, Dạ lan hương\nNốt hương cuối : Iris, Xạ Hương, Hổ phách\n\nThứ vũ khí mạnh nhất của một người phụ nữ nằm ở sự dịu dàng của họ, và cách tốt nhất để trình diễn sự dịu dàng ấy chính là qua mùi hương. Chanel Chance Eau Tendre bỗng dưng hiện lên trong đó, chất lỏng màu hồng phấn chứa đựng thứ tình dược nguy hiểm dụ dỗ cánh đàn ông. Trẻ trung, năng động giống một làn gió mát của mùa hè, thơm hương Bưởi và trái Mộc qua , đơn giản nhưng đồng thời cũng thật lạ kỳ , chỉ làm bản thân muốn được đắm chìm trong chính dự mềm mại đó. “ Cơ hội “ , một sự an bài của số phận , là khi hai tâm hồn hoà làm một , để bị mê hoặc bởi sự lãng mạn đầy thú vị này. Hoa nhài và Dạ lan hương trộn lẫn vào nhau, hài hoà , đẹp đẽ như có thể khiến các chàng trai chìm ngập bởi thứ tình yêu ngọt ngào đó. Đẳng cấp và sang trọng nhưng vẫn không kém phần trẻ trung, khiêu khích trí tò mò của người khác để rồi khi yêu luôn tựa như phút ban đầu. Hơi ấm của Xạ hương và Hổ phách kết hợp lại tạo nên một sự nồng nhiệt vô bờ bến, cùng hương hoa Iris đặt lên đỉnh , dũng cảm và đầy khí chất. Sự tình cờ và nhẹ nhàng trong tình yêu. “ You deserve all the tenderness on the earth “.",
+      "category": "women's",
+      "brand": "chanel",
+      "price": 3300000,
+      "capacity": 100,
+      "srcImage": "https://product.hstatic.net/1000340570/product/chance-eau-tendre-eau-de-toilette_b23760df1dd5424c85e273af02d2b948_master.jpg",
+      "id": "1658991467628",
+      "tags": ["new", "women", "winter", "spring"]
     },
     {
-      "email": "Toan@gmail.com",
-      "password": "123456",
-      "id": 4
+      "name": "Chanel Bleu De Chanel EDP",
+      "description": "Hương đầu: Chanh vàng, Ớt hồng, Bạc hà\nHương giữa: Dưa vàng, Hoa nhài, Gừng\nHương cuối: Gỗ tuyết tùng, Hổ phách, Gỗ đàn hương\n\nNước hoa Bleu de Chanel Eau de Parfum là bản nâng cấp của người đàn anh đi trước Bleu de Chanel Eau de Toilette, ra đời vào mùa hè 2014, Jacques Polge đã không làm những fan nước hoa trung thành của nhà Chanel phải thất vọng. \"Nó còn hơn cả sự mong đợi của chúng tôi\" là câu nói hầu hết của những khách hàng may mắn đầu tiên sở hữu Bleu de Chanel Eau de Parfum tại Paris vào ngày ra mắt. So với bản gốc, Bleu de Chanel Eau de Parfum hể hiện sự nam tính một cách nổi bật hơn, với hương Chanh vàng, Ớt hồng, sự từng trải và tinh tế của một người đàn ông dày dạn kinh nghiệm được bộc lộ một cách trực tiếp và rõ ràng hơn bao giờ hết. Kết thúc hương đầu với sự thanh mát của Bạc hà, là mùi của một người đàn ông manly vừa mới bước ra từ phòng tắm mát lạnh. Bleu de Chanel Eau de Parfum khiến nhiều trái tim phải rung động với sự mạnh mẽ của Gừng, nhưng ẩn chứa sự lịch lãm của Hương hoa nhài quyện lẫn với Dưa vàng. Hãy thử tiến lại gần Bleu de Chanel Eau de Parfum để cảm nhận rõ sự nam tính đáng kinh ngạc đó vào cuối những buổi tiệc, khi Gỗ tuyết tùng và Hổ phách đã cám dỗ bạn bằng sự gần gũi và ấm áp đến bất ngờ.",
+      "category": "men's",
+      "brand": "chanel",
+      "price": 3500000,
+      "capacity": 100,
+      "srcImage": "https://product.hstatic.net/1000340570/product/chanel-bleu-de-chanel-eau-de-parfum-50ml_b9f927221713402b80430643f301d16d_master.jpg",
+      "id": "1658991521397",
+      "tags": ["best seller", "men", "spring", "winter"]
     },
     {
-      "email": "Toan@gmail.com",
-      "password": "123456",
-      "id": 5
+      "name": "Maison Margiela Replica Autumn Vibes",
+      "description": "Hương đầu: Bạch đậu khấu, Tiêu hồng\nHương giữa: Nhục đậu khấu, Lá phong, Hạt cà rốt\nHương cuối: Tuyết tùng, Rêu sồi\n\nMùa thu trong bạn có mùi gì? Liệu chúng có phải là mùi len mới của những chiếc khăn choàng cổ, mùi ngọt ấm của những ly chocolate nóng hổi, hay mùi của những đợt gió lạnh mới đang tràn về? Với Maison Margiela Replica Autumn Vibes, ấy là mùi của những chiếc lá khô, giòn rụm, quyện cùng hương gỗ và pha chút hăng cay như muốn vớt vát những ấm nóng của mùa hè.",
+      "category": "men's",
+      "brand": "other",
+      "price": 3200000,
+      "capacity": 100,
+      "srcImage": "https://product.hstatic.net/1000340570/product/autumm-vibes-100ml_442bdd03d0c3447ea2b5507389323fd0_master.jpg",
+      "id": "1658991623343",
+      "tags": ["new", "men", "women", "winter", "spring"]
+    },
+    {
+      "name": "Hermes Terre d'Hermes Eau Givree Travel Spray",
+      "description": "Thương hiệu\nHermes\nXuất xứ\nPháp\nNăm phát hành\n2022\nNhóm hương\nQuả thanh yên, Bách xù, Hạt tiêu tứ xuyên\nPhong cách\nNam tính, Tươi mát, Quyến rũ",
+      "category": "women's",
+      "brand": "other",
+      "price": 750000,
+      "capacity": 15,
+      "srcImage": "https://product.hstatic.net/1000340570/product/eau-grivee-15ml_b7a11b662b6c4c1fa683f4570d907cd5_master.jpg",
+      "id": "1658991694915",
+      "tags": ["women", "spring", "autumn"]
+    },
+    {
+      "name": "Narciso Rodriguez Musc Noir Rose For Her",
+      "description": "Hương đầu: Cam Bergamot, Tiêu Hồng \n\nHương giữa: Xạ hương, Hoa Huệ, Mận\n\n Hương cuối: Vanilla, Hoắc Hương, Da thuộc \n\nTrước khi nói thêm điều gì về Musc Noir Rose, thì ta phải nhấn mạnh rằng, dù mang cái tên Rose, nhưng ấn phẩm mùi hương này từ nhà Narciso lại không hề chưng cất chút tinh chất nào của Hoa hồng. Mà đúng hơn, Rose ở đây ám chỉ cho sắc hồng qua ánh nhìn của người thiếu nữ, và cũng là tông màu chủ đạo cho thiết kế chai. \n\nẤy vậy, khi đào sâu hơn về ý nghĩa của mùi hương, bóc tách từng lớp, ta sẽ thật sự nhận ra với khứu giác tinh tường của mình, rằng những cá thể đơn lẻ khi hợp lại sẽ tạo nên thứ hương bồng bềnh, vui tươi và dễ yêu như chính sắc hồng mà Musc Noir Rose mang. ",
+      "category": "women's",
+      "brand": "other",
+      "price": 3000000,
+      "capacity": 100,
+      "srcImage": "https://product.hstatic.net/1000340570/product/narciso-rodriguez-musc-noir-rose-for-her-100ml_de6283c834f94123b44ba9ad74a15445_master.jpg",
+      "id": "1658991781097",
+      "tags": ["new", "women", "autumn", "spring"]
+    },
+    {
+      "name": "Narciso Eau Néroli Ambrée",
+      "description": "Hương đầu: Hoa Sứ, Hoa Neroli\nHương giữa: Xạ Hương và Hoa Cam; \nHương cuối: Hổ Phách, Cashmeran và Tuyết Tùng.\n\nĐược ra mắt vào năm 2021, Narciso Eau Néroli Ambrée là tác phẩm hương hoa cỏ do Aurelien Guichard, người đã từng tạo ra siêu phẩm Versace Eros đình đám, chế tác. Vì vậy, mùi hương được mong đợi là sẽ mang đến một làn gió mới mẻ cho nhà mốt Narciso.",
+      "category": "women's",
+      "brand": "other",
+      "price": 2900000,
+      "capacity": 90,
+      "srcImage": "https://product.hstatic.net/1000340570/product/narciso-eau-neroli-ambree.jpg1_99edad3be934496fb64f5deacb1b99de_master.jpg",
+      "id": "1658991992633",
+      "tags": ["new", "women", "spring", "winter"]
     }
   ],
   "orders": [
@@ -217,11 +260,11 @@
       "id": 1
     }
   ],
-    "comments": [
-        {
-            "id": 1,
-            "content": "New comment",
-            "user": "Toan"
-        }
-    ]
+  "comments": [
+    {
+      "id": 1,
+      "content": "New comment",
+      "user": "Toan"
+    }
+  ]
 }
