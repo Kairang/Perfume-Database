@@ -18,9 +18,10 @@
       "brand": "ysl",
       "price": 2500000,
       "capacity": 100,
+      "discount": 10,
       "srcImage": "https://product.hstatic.net/1000340570/product/la-nuit-de-l_homme-le-parfum-eau-de-parfum_7e282e95fe6548799b7fdf7881a50517_master.jpg",
       "id": 2,
-      "tags": ["autumn", "women", "winter"]
+      "tags": ["autumn", "women", "winter", "sale-off"]
     },
     {
       "name": "YSL Mon Paris Intensement",
@@ -73,9 +74,10 @@
       "brand": "gucci",
       "price": 3500000,
       "capacity": 100,
+      "discount": 15,
       "srcImage": "https://product.hstatic.net/1000340570/product/gucci-bloom-profumo-di-fiori-30ml_f27dc29088f048b1a3418d5501030621_master.jpg",
       "id": 7,
-      "tags": ["women", "autumn", "spring", "new"]
+      "tags": ["women", "autumn", "spring", "new", "sale-off"]
     },
     {
       "name": "Versace Eros Parfum",
@@ -119,7 +121,15 @@
       "capacity": 100,
       "srcImage": "https://product.hstatic.net/1000340570/product/prada-luna-rossa-sport-eau-de-toilette-100ml_b7576b93acb04da3ab501b74ee55aedc_master.jpg",
       "id": 11,
-      "tags": ["best-seller", "new", "men", "autumn", "winter"]
+      "tags": [
+        "best-seller",
+        "new",
+        "men",
+        "autumn",
+        "winter",
+        "best seller",
+        "sale-off"
+      ]
     },
     {
       "name": "Prada La Femme Water Splash",
@@ -139,9 +149,10 @@
       "brand": "prada",
       "price": 2300000,
       "capacity": 100,
+      "discount": 17,
       "srcImage": "https://product.hstatic.net/1000340570/product/prada-l_homme-intense-100ml_9de992acd705435db4070c08f64e2680_master.jpg",
       "id": "1658991295712",
-      "tags": ["men", "winter", "summer", "new"]
+      "tags": ["men", "winter", "summer", "new", "sale-off"]
     },
     {
       "name": "Chanel No 5 Eau Premiere EDP",
@@ -223,50 +234,100 @@
   ],
   "orders": [
     {
-      "createAt": "Thứ Bảy, 23 tháng 7, 2022",
-      "idUser": 1,
+      "createAt": "Thứ Năm, 28 tháng 7, 2022",
+      "idUser": 3,
       "cart": [
         {
-          "id": 5,
-          "tags": "sale",
-          "title": "Mancera Paris Cedrat Boise EDP – 120ML",
-          "img": "https://clmensstore.com/wp-content/uploads/2019/08/Mancera-Paris-Cedrat-Boise-EDP-2.png",
-          "price": 320000,
-          "trademark": "MANCERA PARIS",
-          "capacity": "5oz/133ml",
-          "produce": "Hà Lan",
-          "desc": "Mancera Paris Cedrat Boise EDP –  Siêu phẩm mới về từ hãng Mancera đến từ Paris xa hoa và tráng lệ. Một mùi hương không sinh ra để dành cho đám đông nhưng có ma thuật làm cho người sử dụng phải vân vương sau vài lần thưởng thức mùi hương này.",
+          "name": "Prada L'Homme Intense",
+          "description": "Hương Đầu: Hoa Diên Vĩ\nHương Giữa: Quảng Hoắc Hương, Hổ Phách\nHương Cuối: Da Thuộc, Đậu Tonka, Gỗ Đàn Hương\n\nBộ đôi nước hoa mới của Prada, Prada La Femme và Prada L'Homme, ra mắt thị trường vào giữa năm 2016. Một năm sau, các chế phẩm được cải tiến ở nồng độ Eau de Parfum Intense và đã mang lại những tiếng tăm vang dội trong giới mộ điệu mùi hương",
+          "category": "men's",
+          "brand": "prada",
+          "price": 2300000,
+          "capacity": 100,
+          "discount": 17,
+          "srcImage": "https://product.hstatic.net/1000340570/product/prada-l_homme-intense-100ml_9de992acd705435db4070c08f64e2680_master.jpg",
+          "id": "1658991295712",
+          "tags": ["men", "winter", "summer", "new"],
           "quantity": 1
         },
         {
-          "id": 6,
-          "tags": "sale",
-          "title": "Acqua di Gio Profondo by Giorgio Armani | 10ml – 75ml – 125ml",
-          "img": "https://clmensstore.com/wp-content/uploads/2022/05/acqua-di-gio-profondo.jpg",
-          "price": 3100000,
-          "trademark": "GIORGIO ARMANI",
-          "capacity": "5oz/133ml",
-          "produce": "Pháp",
-          "desc": "Giorgio Armani là một nhà thiết kế thời trang người Ý đặc biệt được chú ý với trang phục nam giới của mình. Armani bắt đầu sự nghiệp của mình với tư cách là nhà thiết kế cửa sổ trong một cửa hàng bách hóa và làm việc theo cách của mình để trở thành người mua quần áo nam. Từ năm 1960 đến năm 1972, ông là nhà thiết kế cho nhà thiết kế nổi tiếng Nino Cerutti và sau đó làm nhà thiết kế độc lập cho một số hãng thời trang trước khi thành lập thương hiệu của riêng mình. Ông trình làng bộ sưu tập quần áo nam đầu tiên của mình vào năm 1975, tiếp theo là dòng dành cho nữ giới cùng năm đó. Armani đã thu hút được nhiều khán giả hơn cho tác phẩm của mình với bộ phim nổi tiếng “American Gigolo”, trong đó nhân vật của Richard Gere mặc những thiết kế Armani sang trọng. Đây là lần đầu tiên trong nhiều bộ phim hợp tác trong tương lai.",
+          "name": "Chanel Chance Eau Tendre Eau de Toilette",
+          "description": "Nốt hương đầu : Bưởi , Mộc qua\nNốt hương giữa : Nhài, Dạ lan hương\nNốt hương cuối : Iris, Xạ Hương, Hổ phách\n\nThứ vũ khí mạnh nhất của một người phụ nữ nằm ở sự dịu dàng của họ, và cách tốt nhất để trình diễn sự dịu dàng ấy chính là qua mùi hương. Chanel Chance Eau Tendre bỗng dưng hiện lên trong đó, chất lỏng màu hồng phấn chứa đựng thứ tình dược nguy hiểm dụ dỗ cánh đàn ông. Trẻ trung, năng động giống một làn gió mát của mùa hè, thơm hương Bưởi và trái Mộc qua , đơn giản nhưng đồng thời cũng thật lạ kỳ , chỉ làm bản thân muốn được đắm chìm trong chính dự mềm mại đó. “ Cơ hội “ , một sự an bài của số phận , là khi hai tâm hồn hoà làm một , để bị mê hoặc bởi sự lãng mạn đầy thú vị này. Hoa nhài và Dạ lan hương trộn lẫn vào nhau, hài hoà , đẹp đẽ như có thể khiến các chàng trai chìm ngập bởi thứ tình yêu ngọt ngào đó. Đẳng cấp và sang trọng nhưng vẫn không kém phần trẻ trung, khiêu khích trí tò mò của người khác để rồi khi yêu luôn tựa như phút ban đầu. Hơi ấm của Xạ hương và Hổ phách kết hợp lại tạo nên một sự nồng nhiệt vô bờ bến, cùng hương hoa Iris đặt lên đỉnh , dũng cảm và đầy khí chất. Sự tình cờ và nhẹ nhàng trong tình yêu. “ You deserve all the tenderness on the earth “.",
+          "category": "women's",
+          "brand": "chanel",
+          "price": 3300000,
+          "capacity": 100,
+          "srcImage": "https://product.hstatic.net/1000340570/product/chance-eau-tendre-eau-de-toilette_b23760df1dd5424c85e273af02d2b948_master.jpg",
+          "id": "1658991467628",
+          "tags": ["new", "women", "winter", "spring"],
           "quantity": 1
         }
       ],
-      "totalMoney": 3420000,
+      "totalMoney": 5209000,
       "paymentMethod": "Thanh toán MoMo",
-      "username": "abc",
-      "phone": "0832845357",
-      "address": "137 Nguyễn Thị Thập - p.Hòa Minh - Liên Chiểu - Đà Nẵng",
-      "email": "Toan@gmail.com",
-      "id": 1
+      "username": "Mua dùm anh Phương",
+      "phone": "0123456987",
+      "address": "Ha Noi",
+      "email": "q@gmail.com",
+      "id": 2
     }
   ],
   "comments": [
     {
-      "id": 1,
-      "content": "New comment",
-      "user": "Toan"
+      "idProduct": 2,
+      "description": "Hihi",
+      "rating": 5,
+      "createAt": "Thứ Năm, 28 tháng 7, 2022",
+      "avatar": "https://i.pinimg.com/236x/d8/73/c0/d873c0348b9e539ad3cf1d91a6bbf3a5.jpg",
+      "nameCmt": "quynh",
+      "userId": 3,
+      "id": 2
     }
   ],
-  "users": [],
-  "login": []
+  "users": [
+    {
+      "username": "toan",
+      "password": "123456",
+      "phone": "0123456789",
+      "email": "toan@gmail.com",
+      "address": "Quang Tri",
+      "gender": "male",
+      "avatar": "https://i.pinimg.com/236x/2b/f5/72/2bf572010d4a06b9a7265693f9ff85da.jpg",
+      "isAdmin": false,
+      "id": 1
+    },
+    {
+      "username": "tung",
+      "password": "654321",
+      "phone": "0987654321",
+      "email": "tung@gmail.com",
+      "address": "Da Nang",
+      "gender": "male",
+      "avatar": "https://i.pinimg.com/236x/2b/f5/72/2bf572010d4a06b9a7265693f9ff85da.jpg",
+      "isAdmin": false,
+      "id": 2
+    },
+    {
+      "username": "quynh",
+      "email": "q@gmail.com",
+      "password": "123456",
+      "phone": "0123456987",
+      "address": "Ha Noi",
+      "gender": "female",
+      "avatar": "https://i.pinimg.com/236x/d8/73/c0/d873c0348b9e539ad3cf1d91a6bbf3a5.jpg",
+      "id": 3
+    }
+  ],
+  "login": [
+    {
+      "username": "toan",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "username": "quynh",
+      "password": "123456789",
+      "id": 2
+    }
+  ]
 }
