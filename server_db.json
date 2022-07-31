@@ -233,45 +233,183 @@
     }
   ],
   "orders": [
-    {
-      "createAt": "Thứ Năm, 28 tháng 7, 2022",
-      "idUser": 3,
-      "cart": [
-        {
-          "name": "Prada L'Homme Intense",
-          "description": "Hương Đầu: Hoa Diên Vĩ\nHương Giữa: Quảng Hoắc Hương, Hổ Phách\nHương Cuối: Da Thuộc, Đậu Tonka, Gỗ Đàn Hương\n\nBộ đôi nước hoa mới của Prada, Prada La Femme và Prada L'Homme, ra mắt thị trường vào giữa năm 2016. Một năm sau, các chế phẩm được cải tiến ở nồng độ Eau de Parfum Intense và đã mang lại những tiếng tăm vang dội trong giới mộ điệu mùi hương",
-          "category": "men's",
-          "brand": "prada",
-          "price": 2300000,
-          "capacity": 100,
-          "discount": 17,
-          "srcImage": "https://product.hstatic.net/1000340570/product/prada-l_homme-intense-100ml_9de992acd705435db4070c08f64e2680_master.jpg",
-          "id": "1658991295712",
-          "tags": ["men", "winter", "summer", "new"],
-          "quantity": 1
-        },
-        {
-          "name": "Chanel Chance Eau Tendre Eau de Toilette",
-          "description": "Nốt hương đầu : Bưởi , Mộc qua\nNốt hương giữa : Nhài, Dạ lan hương\nNốt hương cuối : Iris, Xạ Hương, Hổ phách\n\nThứ vũ khí mạnh nhất của một người phụ nữ nằm ở sự dịu dàng của họ, và cách tốt nhất để trình diễn sự dịu dàng ấy chính là qua mùi hương. Chanel Chance Eau Tendre bỗng dưng hiện lên trong đó, chất lỏng màu hồng phấn chứa đựng thứ tình dược nguy hiểm dụ dỗ cánh đàn ông. Trẻ trung, năng động giống một làn gió mát của mùa hè, thơm hương Bưởi và trái Mộc qua , đơn giản nhưng đồng thời cũng thật lạ kỳ , chỉ làm bản thân muốn được đắm chìm trong chính dự mềm mại đó. “ Cơ hội “ , một sự an bài của số phận , là khi hai tâm hồn hoà làm một , để bị mê hoặc bởi sự lãng mạn đầy thú vị này. Hoa nhài và Dạ lan hương trộn lẫn vào nhau, hài hoà , đẹp đẽ như có thể khiến các chàng trai chìm ngập bởi thứ tình yêu ngọt ngào đó. Đẳng cấp và sang trọng nhưng vẫn không kém phần trẻ trung, khiêu khích trí tò mò của người khác để rồi khi yêu luôn tựa như phút ban đầu. Hơi ấm của Xạ hương và Hổ phách kết hợp lại tạo nên một sự nồng nhiệt vô bờ bến, cùng hương hoa Iris đặt lên đỉnh , dũng cảm và đầy khí chất. Sự tình cờ và nhẹ nhàng trong tình yêu. “ You deserve all the tenderness on the earth “.",
-          "category": "women's",
-          "brand": "chanel",
-          "price": 3300000,
-          "capacity": 100,
-          "srcImage": "https://product.hstatic.net/1000340570/product/chance-eau-tendre-eau-de-toilette_b23760df1dd5424c85e273af02d2b948_master.jpg",
-          "id": "1658991467628",
-          "tags": ["new", "women", "winter", "spring"],
-          "quantity": 1
-        }
-      ],
-      "totalMoney": 5209000,
-      "paymentMethod": "Thanh toán MoMo",
-      "username": "Mua dùm anh Phương",
-      "phone": "0123456987",
-      "address": "Ha Noi",
-      "email": "q@gmail.com",
-      "id": 2
-    }
-  ],
+  {
+    "createAt": "Thứ Năm, 28 tháng 7, 2022",
+    "idUser": 3,
+    "cart": [
+      {
+        "name": "Prada L'Homme Intense",
+        "description": "Hương Đầu: Hoa Diên Vĩ\nHương Giữa: Quảng Hoắc Hương, Hổ Phách\nHương Cuối: Da Thuộc, Đậu Tonka, Gỗ Đàn Hương\n\nBộ đôi nước hoa mới của Prada, Prada La Femme và Prada L'Homme, ra mắt thị trường vào giữa năm 2016. Một năm sau, các chế phẩm được cải tiến ở nồng độ Eau de Parfum Intense và đã mang lại những tiếng tăm vang dội trong giới mộ điệu mùi hương",
+        "category": "men's",
+        "brand": "prada",
+        "price": 2300000,
+        "capacity": 100,
+        "discount": 17,
+        "srcImage": "https://product.hstatic.net/1000340570/product/prada-l_homme-intense-100ml_9de992acd705435db4070c08f64e2680_master.jpg",
+        "id": "1658991295712",
+        "tags": [
+          "men",
+          "winter",
+          "summer",
+          "new"
+        ],
+        "quantity": 1
+      },
+      {
+        "name": "Chanel Chance Eau Tendre Eau de Toilette",
+        "description": "Nốt hương đầu : Bưởi , Mộc qua\nNốt hương giữa : Nhài, Dạ lan hương\nNốt hương cuối : Iris, Xạ Hương, Hổ phách\n\nThứ vũ khí mạnh nhất của một người phụ nữ nằm ở sự dịu dàng của họ, và cách tốt nhất để trình diễn sự dịu dàng ấy chính là qua mùi hương. Chanel Chance Eau Tendre bỗng dưng hiện lên trong đó, chất lỏng màu hồng phấn chứa đựng thứ tình dược nguy hiểm dụ dỗ cánh đàn ông. Trẻ trung, năng động giống một làn gió mát của mùa hè, thơm hương Bưởi và trái Mộc qua , đơn giản nhưng đồng thời cũng thật lạ kỳ , chỉ làm bản thân muốn được đắm chìm trong chính dự mềm mại đó. “ Cơ hội “ , một sự an bài của số phận , là khi hai tâm hồn hoà làm một , để bị mê hoặc bởi sự lãng mạn đầy thú vị này. Hoa nhài và Dạ lan hương trộn lẫn vào nhau, hài hoà , đẹp đẽ như có thể khiến các chàng trai chìm ngập bởi thứ tình yêu ngọt ngào đó. Đẳng cấp và sang trọng nhưng vẫn không kém phần trẻ trung, khiêu khích trí tò mò của người khác để rồi khi yêu luôn tựa như phút ban đầu. Hơi ấm của Xạ hương và Hổ phách kết hợp lại tạo nên một sự nồng nhiệt vô bờ bến, cùng hương hoa Iris đặt lên đỉnh , dũng cảm và đầy khí chất. Sự tình cờ và nhẹ nhàng trong tình yêu. “ You deserve all the tenderness on the earth “.",
+        "category": "women's",
+        "brand": "chanel",
+        "price": 3300000,
+        "capacity": 100,
+        "srcImage": "https://product.hstatic.net/1000340570/product/chance-eau-tendre-eau-de-toilette_b23760df1dd5424c85e273af02d2b948_master.jpg",
+        "id": "1658991467628",
+        "tags": [
+          "new",
+          "women",
+          "winter",
+          "spring"
+        ],
+        "quantity": 1
+      }
+    ],
+    "totalMoney": 5209000,
+    "paymentMethod": "Thanh toán MoMo",
+    "username": "Mua dùm anh Phương",
+    "phone": "0123456987",
+    "address": "Ha Noi",
+    "email": "q@gmail.com",
+    "id": 2
+  },
+  {
+    "id": 3,
+    "username": "Trang",
+    "idUser": 4,
+    "createAt": "Chủ Nhật, 31 tháng 7, 2022",
+    "totalMoney": 8800000,
+    "paymentMethod": "Ship COD",
+    "email": "trang@gmail.com",
+    "phone": "0987654123",
+    "address": "Hồ Chí Minh",
+    "deliveryStatus": "inTransit",
+    "cart": [
+      {
+        "name": "Gucci Flora Gracious Tuberose",
+        "description": "Hương đầu: Lá hoa tím, Quà đào\nHương giữa: Hoa huệ, Hoa cam, Hoa hồng\nHương cuối: Gỗ tuyết tùng, Labdanum\n\nNếu mùi hương của Gỗ có thể làm ta cảm thấy tĩnh tại và an yên ngay tắp lự, thì hương Hoa lại là thứ thần dược khiến ta bay bổng, hứng khởi và tràn đầy say mê. Và điều này cũng không ngoại lệ với Gucci Flora Gracious Tuberose, hương hoa của sự sống, tôi có thể nói là vậy.",
+        "category": "women's",
+        "brand": "gucci",
+        "price": 2600000,
+        "capacity": 100,
+        "srcImage": "https://product.hstatic.net/1000340570/product/gucci-flora-gracious-tuberose_ded90e4cacd9422fb2a8f8d7f70ec34b_master.jpg",
+        "id": 5,
+        "tags": [
+          "women",
+          "autumn",
+          "winter",
+          "best seller"
+        ],
+        "quantity": 1
+      },
+      {
+        "name": "Gucci Moonlight Serenade Scented Water",
+        "description": "Hương chính: Oải hương, Cây xô thơm, đậu Tonka.\n\nBộ sưu tập xa xỉ này được lấy cảm hứng từ xu hướng mới nhất của cách layer mùi hương và bao gồm bảy loại Eau de Parfum, bốn loại tinh dầu nước hoa và ba loại \"nước thơm\". Dòng Gucci được lấy cảm hứng từ nghệ thuật giả kim và nghệ thuật tác chế hương thơm, và nó được thiết kế để được phân lớp và pha trộn với nhau để tạo ra một sự kết hợp hương thơm cá nhân và độc đáo.",
+        "category": "women's",
+        "brand": "gucci",
+        "price": 6200000,
+        "capacity": 150,
+        "srcImage": "https://product.hstatic.net/1000340570/product/guccimoonlight-serenade-scented-water-150ml_3898bba1f1ef4559b9b99d28c036388d_master.jpg",
+        "id": 6,
+        "tags": [
+          "new",
+          "spring",
+          "women",
+          "autumn"
+        ],
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "username": "trang",
+    "idUser": 4,
+    "createAt": "Chủ Nhật, 31 tháng 7, 2022",
+    "totalMoney": 16500000,
+    "paymentMethod": "Ship COD",
+    "email": "trang@gmail.com",
+    "phone": "0987654123",
+    "address": "Hồ Chí Minh",
+    "deliveryStatus": "delivered",
+    "cart": [
+      {
+        "name": "Chanel Bleu De Chanel EDP",
+        "description": "Hương đầu: Chanh vàng, Ớt hồng, Bạc hà\nHương giữa: Dưa vàng, Hoa nhài, Gừng\nHương cuối: Gỗ tuyết tùng, Hổ phách, Gỗ đàn hương\n\nNước hoa Bleu de Chanel Eau de Parfum là bản nâng cấp của người đàn anh đi trước Bleu de Chanel Eau de Toilette, ra đời vào mùa hè 2014, Jacques Polge đã không làm những fan nước hoa trung thành của nhà Chanel phải thất vọng. \"Nó còn hơn cả sự mong đợi của chúng tôi\" là câu nói hầu hết của những khách hàng may mắn đầu tiên sở hữu Bleu de Chanel Eau de Parfum tại Paris vào ngày ra mắt. So với bản gốc, Bleu de Chanel Eau de Parfum hể hiện sự nam tính một cách nổi bật hơn, với hương Chanh vàng, Ớt hồng, sự từng trải và tinh tế của một người đàn ông dày dạn kinh nghiệm được bộc lộ một cách trực tiếp và rõ ràng hơn bao giờ hết. Kết thúc hương đầu với sự thanh mát của Bạc hà, là mùi của một người đàn ông manly vừa mới bước ra từ phòng tắm mát lạnh. Bleu de Chanel Eau de Parfum khiến nhiều trái tim phải rung động với sự mạnh mẽ của Gừng, nhưng ẩn chứa sự lịch lãm của Hương hoa nhài quyện lẫn với Dưa vàng. Hãy thử tiến lại gần Bleu de Chanel Eau de Parfum để cảm nhận rõ sự nam tính đáng kinh ngạc đó vào cuối những buổi tiệc, khi Gỗ tuyết tùng và Hổ phách đã cám dỗ bạn bằng sự gần gũi và ấm áp đến bất ngờ.",
+        "category": "men's",
+        "brand": "chanel",
+        "price": 3500000,
+        "capacity": 100,
+        "srcImage": "https://product.hstatic.net/1000340570/product/chanel-bleu-de-chanel-eau-de-parfum-50ml_b9f927221713402b80430643f301d16d_master.jpg",
+        "id": "1658991521397",
+        "tags": [
+          "best seller",
+          "men",
+          "spring",
+          "winter"
+        ],
+        "quantity": 1
+      },
+      {
+        "name": "YSL Mon Paris Intensement",
+        "description": "Yves Saint Laurent Mon Paris Intensement",
+        "category": "women's",
+        "brand": "ysl",
+        "price": 2600000,
+        "capacity": 90,
+        "srcImage": "https://product.hstatic.net/1000340570/product/yves-saint-laurent-mon-paris-intensement-90ml_3f4a0a32c7dc49d7a218ce03eb5b3826_master.jpg",
+        "id": 3,
+        "tags": [
+          "winter",
+          "autumn",
+          "summer",
+          "new",
+          "women"
+        ],
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "username": "trang",
+    "idUser": 4,
+    "createAt": "Chủ Nhật, 31 tháng 7, 2022",
+    "totalMoney": 2900000,
+    "paymentMethod": "Thanh toán MoMo",
+    "email": "trang@gmail.com",
+    "phone": "0123456789",
+    "address": "Hồ Chí Minh",
+    "deliveryStatus": "canceled",
+    "cart": [
+      {
+        "name": "Narciso Eau Néroli Ambrée",
+        "description": "Hương đầu: Hoa Sứ, Hoa Neroli\nHương giữa: Xạ Hương và Hoa Cam; \nHương cuối: Hổ Phách, Cashmeran và Tuyết Tùng.\n\nĐược ra mắt vào năm 2021, Narciso Eau Néroli Ambrée là tác phẩm hương hoa cỏ do Aurelien Guichard, người đã từng tạo ra siêu phẩm Versace Eros đình đám, chế tác. Vì vậy, mùi hương được mong đợi là sẽ mang đến một làn gió mới mẻ cho nhà mốt Narciso.",
+        "category": "women's",
+        "brand": "other",
+        "price": 2900000,
+        "capacity": 90,
+        "srcImage": "https://product.hstatic.net/1000340570/product/narciso-eau-neroli-ambree.jpg1_99edad3be934496fb64f5deacb1b99de_master.jpg",
+        "id": "1658991992633",
+        "tags": [
+          "new",
+          "women",
+          "spring",
+          "winter"
+        ],
+        "quantity": 1
+      }
+    ]
+  }
+],
   "comments": [
     {
       "idProduct": 2,
@@ -285,39 +423,51 @@
     }
   ],
   "users": [
-    {
-      "username": "toan",
-      "password": "123456",
-      "phone": "0123456789",
-      "email": "toan@gmail.com",
-      "address": "Quang Tri",
-      "gender": "male",
-      "avatar": "https://i.pinimg.com/236x/2b/f5/72/2bf572010d4a06b9a7265693f9ff85da.jpg",
-      "isAdmin": false,
-      "id": 1
-    },
-    {
-      "username": "tung",
-      "password": "654321",
-      "phone": "0987654321",
-      "email": "tung@gmail.com",
-      "address": "Da Nang",
-      "gender": "male",
-      "avatar": "https://i.pinimg.com/236x/2b/f5/72/2bf572010d4a06b9a7265693f9ff85da.jpg",
-      "isAdmin": false,
-      "id": 2
-    },
-    {
-      "username": "quynh",
-      "email": "q@gmail.com",
-      "password": "123456",
-      "phone": "0123456987",
-      "address": "Ha Noi",
-      "gender": "female",
-      "avatar": "https://i.pinimg.com/236x/d8/73/c0/d873c0348b9e539ad3cf1d91a6bbf3a5.jpg",
-      "id": 3
-    }
-  ],
+  {
+    "username": "toan",
+    "password": "123456",
+    "phone": "0123456789",
+    "email": "toan@gmail.com",
+    "address": "Quang Tri",
+    "gender": "male",
+    "avatar": "https://i.pinimg.com/236x/2b/f5/72/2bf572010d4a06b9a7265693f9ff85da.jpg",
+    "isAdmin": false,
+    "id": 1
+  },
+  {
+    "username": "tung",
+    "password": "654321",
+    "phone": "0987654321",
+    "email": "tung@gmail.com",
+    "address": "Da Nang",
+    "gender": "male",
+    "avatar": "https://i.pinimg.com/236x/2b/f5/72/2bf572010d4a06b9a7265693f9ff85da.jpg",
+    "isAdmin": false,
+    "id": 2
+  },
+  {
+    "username": "quynh",
+    "gender": "female",
+    "isAdmin": false,
+    "email": "q@gmail.com",
+    "password": "123456",
+    "phone": "0123456987",
+    "avatar": "https://i.pinimg.com/236x/d8/73/c0/d873c0348b9e539ad3cf1d91a6bbf3a5.jpg",
+    "address": "Ha Noi",
+    "id": 3
+  },
+  {
+    "username": "trang",
+    "gender": "female",
+    "isAdmin": false,
+    "email": "trang@gmail.com",
+    "password": "123456",
+    "phone": "0123456789",
+    "avatar": "https://i.pinimg.com/236x/31/50/eb/3150eb1f27c9ccb57b1dd7933cb70e8a.jpg",
+    "address": "Hồ Chí Minh",
+    "id": 4
+  }
+],
   "login": [
     {
       "username": "toan",
