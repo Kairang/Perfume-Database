@@ -1,237 +1,512 @@
 {
   "products": [
-    {
-      "name": "Chanel Chance Eau de Parfum",
-      "description": "Sẽ không có gì xa lạ khi bạn bắt gặp những “thành viên\" với vẻ ngoài góc cạnh, mang hơi thở nồng nàn, mạnh mẽ, chứa đựng cái tôi đầy độc lập và sắc sảo trong “gia tộc nước hoa xa xỉ bậc nhất” - Chanel. Thế nhưng, Chanel Chance Eau Parfum lại chọn cho mình một lối đi hoàn toàn khác hẳn. Như được ấn định những may mắn, niềm vui, “cơ hội” từ lúc chào đời, Chanel Chance Eau Parfum được thiết kế theo hình tròn - vòng tròn của sự may mắn, phúc hậu và thực sự vẹn toàn.\nCó vẻ như nhà chế tác nước hoa đình đám Jacques Polge đã quyết định tạo nên dấu ấn riêng biệt khi “rước về\" một nàng thơ dịu dàng, e ấp và chưa từng xuất hiện trong gia đình Chanel. Nàng thơ ấy bước đến bằng sự dịu dàng, mang theo làn hương nhẹ tựa vô hình, vô định để rồi nhận lại là những ánh mắt đắm say. Chance Eau Parfum mỏng manh như sương mai trong nắng sớm, như cơn gió nhè nhẹ giữa ngày Hè, như âm vị ấm áp của Hồ tiêu thi thoảng thoáng qua rất đỗi bình dị và ung dung.",
-      "category": "women's",
-      "brand": "chanel",
-      "price": 3600000,
-      "capacity": 100,
-      "srcImage": "https://product.hstatic.net/1000340570/product/chanel-chance-eau-de-parfum_05321c8bb4144286babba8159091fb88_master.jpg",
-      "id": 1,
-      "tags": ["women", "winter", "spring"]
-    },
-    {
-      "name": "YSL La Nuit de L'Homme Le Parfum",
-      "description": "Mang tới dòng hương Oriental Fougere đến từ phương Đông, siêu phẩm La Nuit de L’Homme Le Parfum của Yves Saint Laurent như một bằng chứng thể hiện bản lĩnh và sức mạnh của người đàn ông thời hiện đại.\n\nMột trong những chai nước hoa được ưa chuộng nhất ngay tại thời điểm vừa ra mắt năm 2010, tạo ra sự cân bằng với thiết kế bắt mắt khi thân chai có hình trụ cùng chiếc nắp hình lục giác. La Nuit de L’Homme như lời tuyên bố hương thơm bên trong của mình vô cùng nam tính tính và mạnh mẽ khi lấy tông màu đen làm điểm nhấn cho toàn bộ thiết kế bên ngoài.",
-      "category": "men's",
-      "brand": "ysl",
-      "price": 2500000,
-      "capacity": 100,
-      "discount": 10,
-      "srcImage": "https://product.hstatic.net/1000340570/product/la-nuit-de-l_homme-le-parfum-eau-de-parfum_7e282e95fe6548799b7fdf7881a50517_master.jpg",
-      "id": 2,
-      "tags": ["autumn", "women", "winter", "sale-off"]
-    },
-    {
-      "name": "YSL Mon Paris Intensement",
-      "description": "Yves Saint Laurent Mon Paris Intensement",
-      "category": "women's",
-      "brand": "ysl",
-      "price": 2600000,
-      "capacity": 90,
-      "srcImage": "https://product.hstatic.net/1000340570/product/yves-saint-laurent-mon-paris-intensement-90ml_3f4a0a32c7dc49d7a218ce03eb5b3826_master.jpg",
-      "id": 3,
-      "tags": ["winter", "autumn", "summer", "new", "women"]
-    },
-    {
-      "name": "YSL L'Homme Le Parfum 2020",
-      "description": "Với Yves Saint Laurent L'Homme Le Parfum 2020, cũng như bao mùi hương khác, L'Homme Le Parfum cũng gắt gao lựa chọn “đối tượng\" cho riêng mình. Một người đủ nhiệt huyết và tràn trề nhựa sống để có thể xứng đôi với tông vị thanh mát của Chanh vàng và Bạch đậu khấu trong tầng hương đầu, nhưng chỉ trẻ trung thôi vẫn chưa đủ.",
-      "category": "men's",
-      "brand": "ysl",
-      "price": 2300000,
-      "capacity": 100,
-      "srcImage": "https://product.hstatic.net/1000340570/product/32bcb97d7e0b4b208818cbb9c4a21e8e_b9204e9ae2604d6d98d6bdb6ca55c0be_master.jpg",
-      "id": 4,
-      "tags": ["winter", "autumn", "men", "new"]
-    },
-    {
-      "name": "Gucci Flora Gracious Tuberose",
-      "description": "Hương đầu: Lá hoa tím, Quà đào\nHương giữa: Hoa huệ, Hoa cam, Hoa hồng\nHương cuối: Gỗ tuyết tùng, Labdanum\n\nNếu mùi hương của Gỗ có thể làm ta cảm thấy tĩnh tại và an yên ngay tắp lự, thì hương Hoa lại là thứ thần dược khiến ta bay bổng, hứng khởi và tràn đầy say mê. Và điều này cũng không ngoại lệ với Gucci Flora Gracious Tuberose, hương hoa của sự sống, tôi có thể nói là vậy.",
-      "category": "women's",
-      "brand": "gucci",
-      "price": 2600000,
-      "capacity": 100,
-      "srcImage": "https://product.hstatic.net/1000340570/product/gucci-flora-gracious-tuberose_ded90e4cacd9422fb2a8f8d7f70ec34b_master.jpg",
-      "id": 5,
-      "tags": ["women", "autumn", "winter", "best seller"]
-    },
-    {
-      "name": "Gucci Moonlight Serenade Scented Water",
-      "description": "Hương chính: Oải hương, Cây xô thơm, đậu Tonka.\n\nBộ sưu tập xa xỉ này được lấy cảm hứng từ xu hướng mới nhất của cách layer mùi hương và bao gồm bảy loại Eau de Parfum, bốn loại tinh dầu nước hoa và ba loại \"nước thơm\". Dòng Gucci được lấy cảm hứng từ nghệ thuật giả kim và nghệ thuật tác chế hương thơm, và nó được thiết kế để được phân lớp và pha trộn với nhau để tạo ra một sự kết hợp hương thơm cá nhân và độc đáo.",
-      "category": "women's",
-      "brand": "gucci",
-      "price": 6200000,
-      "capacity": 150,
-      "srcImage": "https://product.hstatic.net/1000340570/product/guccimoonlight-serenade-scented-water-150ml_3898bba1f1ef4559b9b99d28c036388d_master.jpg",
-      "id": 6,
-      "tags": ["new", "spring", "women", "autumn"]
-    },
-    {
-      "name": "Gucci Bloom Profumo Di Fiori",
-      "description": "Hương đầu: Tinh chất hoa nhài Sambac, Rangoon Creeper (Chinese Osmanthus)\nHương giữa: Ylang-Ylang, Hoa huệ tự nhiên, Nụ hoa nhài\nHương cuối: Gỗ đàn hương, gỗ ướt đẫm nắng, Orris, Benzoin, Musks\n\nDòng nước hoa nổi tiếng của GUCCI BLOOM, bắt đầu với dòng nước hoa Gucci Bloom đầu tiên vào năm 2017 lại một lần nữa khuấy động không khí mùa Hè trong năm 2020 với mùi hương GUCCI BLOOM PROFUMO DI FIORI. “Gương mặt mới” trong địa đàng Gucci Bloom mê hoặc khứu giác bởi hương thơm nhiệt đới ấm áp và cảm hứng đầy kích thích từ hoa ylang-ylang pha trộn với những bông hoa trắng say đắm và hợp âm vốn đã nổi tiếng được tìm thấy trong tất cả các loại nước hoa Gucci Bloom: rangoon creeper, còn được gọi là osmanthus Trung Quốc (Combretum indicum), cây nho đỏ cụm hoa và có nguồn gốc từ vùng nhiệt đới châu Á.",
-      "category": "women's",
-      "brand": "gucci",
-      "price": 3500000,
-      "capacity": 100,
-      "discount": 15,
-      "srcImage": "https://product.hstatic.net/1000340570/product/gucci-bloom-profumo-di-fiori-30ml_f27dc29088f048b1a3418d5501030621_master.jpg",
-      "id": 7,
-      "tags": ["women", "autumn", "spring", "new", "sale-off"]
-    },
-    {
-      "name": "Versace Eros Parfum",
-      "description": "Thương hiệu\nVersace\nXuất xứ\nÝ\nNăm phát hành\n2021\nNhóm hương\nĐậi tonka, Hổ phách, Táo xanh\nPhong cách\nNam tính, Mạnh mẽ, Cuốn hút",
-      "category": "men's",
-      "brand": "versace",
-      "price": 2700000,
-      "capacity": 100,
-      "srcImage": "https://product.hstatic.net/1000340570/product/eros-parfum-box-_b94579cb6bb246d98166e03ddf31d973_master.jpg",
-      "id": 8,
-      "tags": ["new", "men", "autumn", "winter", "new"]
-    },
-    {
-      "name": "Versace Pour Homme",
-      "description": "Hương đầu: Quả chanh vàng, Cam Bergamot, Neroli, Hoa hồng tháng 5. \n\nHương giữa: Hoa lục bình, Gỗ tuyết tùng, Xô thơm, Hoa phong lữ. \n\nHương cuối: Đậu Tonka, Xạ hương, Amber. \n\nĐến từ bàn tay của nhà điều hương được mệnh danh là “chuyên gia hương tươi” Alberto Morillas, Versace Pour Homme đem tới cho phải mạnh một mùi hương Aromatic Fougere (Thảo mộc - Dương xỉ) nhẹ nhàng và đầy thanh lịch. ",
-      "category": "men's",
-      "brand": "versace",
-      "price": 1800000,
-      "capacity": 100,
-      "srcImage": "https://product.hstatic.net/1000340570/product/versace-pour-homme-5ml_4f5a3167c830426983deecb1b85b03e0.jpg",
-      "id": 9,
-      "tags": ["new", "men", "winter", "spring", "new"]
-    },
-    {
-      "name": "Versace Bright Crystal",
-      "description": "Hương đầu: Lựu, Yuzu, Nước đá\nHương giữa: Hoa Sen, Hoa Mẫu Đơn, Hoa Mộc Lan\nHương cuối: Hổ phách, Xạ hương, Gỗ Gụ\n\nNếu như Xuân được xem là mùa đẹp nhất trong năm, là mùa mà vạn vật đều xao xuyến và nao nức mỗi khi nhắc đến. Thì Versace Bright Crystal được ví như là mùi của mùa Xuân, mùi của sự khởi đầu cho những điều đẹp đẽ nhất.",
-      "category": "women's",
-      "brand": "versace",
-      "price": 1200000,
-      "capacity": 30,
-      "srcImage": "https://product.hstatic.net/1000340570/product/versace-bright-crystal-200ml_2a7b83967e834258900f17f2447005a8_master.jpg",
-      "id": 10,
-      "tags": ["new", "women", "autumn", "spring", "best seller"]
-    },
-    {
-      "name": "Prada Luna Rossa Sport Eau de Toilette",
-      "description": "Hương đầu: Quả bách xù và gừng\nHương giữa: Hoa oải hương\nHương cuối: Đậu Tonka và Vanila.\n\nPrada Luna Rossa Sport là mùi hương mới nằm trong bộ sưu tập Luna Rossa mở rộng của nhà Prada sau khi phiên bản đầu tiên được ra mắt vào năm 2012, bao gồm: Luna Rossa 34th American's cup limited edition và Luna Rossa Extreme ra mắt cùng năm 2013.",
-      "category": "women's",
-      "brand": "prada",
-      "price": 2500000,
-      "capacity": 100,
-      "srcImage": "https://product.hstatic.net/1000340570/product/prada-luna-rossa-sport-eau-de-toilette-100ml_b7576b93acb04da3ab501b74ee55aedc_master.jpg",
-      "id": 11,
-      "tags": [
-        "best-seller",
-        "new",
-        "men",
-        "autumn",
-        "winter",
-        "best seller",
-        "sale-off"
-      ]
-    },
-    {
-      "name": "Prada La Femme Water Splash",
-      "description": "Hương đầu: Lá Quýt, Quả Quýt\nHương giữa:  Hoa Sử, Mộc Lan, Lily of the Valley\nHương cuối: Gỗ Đàn Hương, Nốt Hương Xanh \n\nÝ tưởng dòng nước hoa phiên bản giới hạn mới nhất của Prada - La Femme Prada Water Splash vẽ nên một bức tranh sắc nét về một kỳ nghỉ lý tưởng: Mùi hương này là sự pha trộn giữa sự ấm áp và mát mẻ sảng khoái, tái hiện lại cảm giác những ngày nằm trên bãi biển rộng, làn nước rực rỡ, những cơn sóng rì rào, làn gió đưa đẩy và ánh nắng chiếu qua kẽ lá chạm đến làn da.",
-      "category": "women's",
-      "brand": "prada",
-      "price": 2300000,
-      "capacity": 150,
-      "srcImage": "https://product.hstatic.net/1000340570/product/prada_la_femme_water_splash_for_women_edt_6a4ab6de2eb1470d86b09b171f96280a_master.jpg",
-      "id": "1658990861554",
-      "tags": ["new", "women", "autumn", "summer", "spring"]
-    },
-    {
-      "name": "Prada L'Homme Intense",
-      "description": "Hương Đầu: Hoa Diên Vĩ\nHương Giữa: Quảng Hoắc Hương, Hổ Phách\nHương Cuối: Da Thuộc, Đậu Tonka, Gỗ Đàn Hương\n\nBộ đôi nước hoa mới của Prada, Prada La Femme và Prada L'Homme, ra mắt thị trường vào giữa năm 2016. Một năm sau, các chế phẩm được cải tiến ở nồng độ Eau de Parfum Intense và đã mang lại những tiếng tăm vang dội trong giới mộ điệu mùi hương",
-      "category": "men's",
-      "brand": "prada",
-      "price": 2300000,
-      "capacity": 100,
-      "discount": 17,
-      "srcImage": "https://product.hstatic.net/1000340570/product/prada-l_homme-intense-100ml_9de992acd705435db4070c08f64e2680_master.jpg",
-      "id": "1658991295712",
-      "tags": ["men", "winter", "summer", "new", "sale-off"]
-    },
-    {
-      "name": "Chanel No 5 Eau Premiere EDP",
-      "description": "Notes list:\nHương đầu: Aldehydes, Hoa hoàng lan, Hoa cam.\nHương giữa: Hoa nhài, Hoa hồng.\nHương cuối: Vanilla, Gỗ đàn hương, Cỏ hương bài.\n\nChanel No 5 Eau Premiere Eau de Parfum được ra mắt năm 2015, là một mùi hương thuộc nhóm Hương hoa – An đê hít (Floral – Aldehydé), flanker của mùi hương huyền thoại Chanel No 5 của nhà mốt Pháp Chanel. Chanel No 5 Eau Premiere Eau de Parfum được pha chể qua chiếc mũi của Jacques Polge, được giới thiệu như là một mùi hương mang DNA của No 5 với các notes hương chính của người chị cả vượt thời gian nhưng được phối hợp hài hòa và tinh tế hơn, đem lại một cảm giác hiện đại hơn, nhẹ nhàng hơn.",
-      "category": "women's",
-      "brand": "chanel",
-      "price": 2500000,
-      "capacity": 50,
-      "srcImage": "https://product.hstatic.net/1000340570/product/chanel-no-5-eau-premiere-eau-de-parfum-50ml_34baf822c99142d0ba15f775e97aba44_master.jpg",
-      "id": "1658991413703",
-      "tags": ["women", "winter", "spring", "best seller"]
-    },
-    {
-      "name": "Chanel Chance Eau Tendre Eau de Toilette",
-      "description": "Nốt hương đầu : Bưởi , Mộc qua\nNốt hương giữa : Nhài, Dạ lan hương\nNốt hương cuối : Iris, Xạ Hương, Hổ phách\n\nThứ vũ khí mạnh nhất của một người phụ nữ nằm ở sự dịu dàng của họ, và cách tốt nhất để trình diễn sự dịu dàng ấy chính là qua mùi hương. Chanel Chance Eau Tendre bỗng dưng hiện lên trong đó, chất lỏng màu hồng phấn chứa đựng thứ tình dược nguy hiểm dụ dỗ cánh đàn ông. Trẻ trung, năng động giống một làn gió mát của mùa hè, thơm hương Bưởi và trái Mộc qua , đơn giản nhưng đồng thời cũng thật lạ kỳ , chỉ làm bản thân muốn được đắm chìm trong chính dự mềm mại đó. “ Cơ hội “ , một sự an bài của số phận , là khi hai tâm hồn hoà làm một , để bị mê hoặc bởi sự lãng mạn đầy thú vị này. Hoa nhài và Dạ lan hương trộn lẫn vào nhau, hài hoà , đẹp đẽ như có thể khiến các chàng trai chìm ngập bởi thứ tình yêu ngọt ngào đó. Đẳng cấp và sang trọng nhưng vẫn không kém phần trẻ trung, khiêu khích trí tò mò của người khác để rồi khi yêu luôn tựa như phút ban đầu. Hơi ấm của Xạ hương và Hổ phách kết hợp lại tạo nên một sự nồng nhiệt vô bờ bến, cùng hương hoa Iris đặt lên đỉnh , dũng cảm và đầy khí chất. Sự tình cờ và nhẹ nhàng trong tình yêu. “ You deserve all the tenderness on the earth “.",
-      "category": "women's",
-      "brand": "chanel",
-      "price": 3300000,
-      "capacity": 100,
-      "srcImage": "https://product.hstatic.net/1000340570/product/chance-eau-tendre-eau-de-toilette_b23760df1dd5424c85e273af02d2b948_master.jpg",
-      "id": "1658991467628",
-      "tags": ["new", "women", "winter", "spring"]
-    },
-    {
-      "name": "Chanel Bleu De Chanel EDP",
-      "description": "Hương đầu: Chanh vàng, Ớt hồng, Bạc hà\nHương giữa: Dưa vàng, Hoa nhài, Gừng\nHương cuối: Gỗ tuyết tùng, Hổ phách, Gỗ đàn hương\n\nNước hoa Bleu de Chanel Eau de Parfum là bản nâng cấp của người đàn anh đi trước Bleu de Chanel Eau de Toilette, ra đời vào mùa hè 2014, Jacques Polge đã không làm những fan nước hoa trung thành của nhà Chanel phải thất vọng. \"Nó còn hơn cả sự mong đợi của chúng tôi\" là câu nói hầu hết của những khách hàng may mắn đầu tiên sở hữu Bleu de Chanel Eau de Parfum tại Paris vào ngày ra mắt. So với bản gốc, Bleu de Chanel Eau de Parfum hể hiện sự nam tính một cách nổi bật hơn, với hương Chanh vàng, Ớt hồng, sự từng trải và tinh tế của một người đàn ông dày dạn kinh nghiệm được bộc lộ một cách trực tiếp và rõ ràng hơn bao giờ hết. Kết thúc hương đầu với sự thanh mát của Bạc hà, là mùi của một người đàn ông manly vừa mới bước ra từ phòng tắm mát lạnh. Bleu de Chanel Eau de Parfum khiến nhiều trái tim phải rung động với sự mạnh mẽ của Gừng, nhưng ẩn chứa sự lịch lãm của Hương hoa nhài quyện lẫn với Dưa vàng. Hãy thử tiến lại gần Bleu de Chanel Eau de Parfum để cảm nhận rõ sự nam tính đáng kinh ngạc đó vào cuối những buổi tiệc, khi Gỗ tuyết tùng và Hổ phách đã cám dỗ bạn bằng sự gần gũi và ấm áp đến bất ngờ.",
-      "category": "men's",
-      "brand": "chanel",
-      "price": 3500000,
-      "capacity": 100,
-      "srcImage": "https://product.hstatic.net/1000340570/product/chanel-bleu-de-chanel-eau-de-parfum-50ml_b9f927221713402b80430643f301d16d_master.jpg",
-      "id": "1658991521397",
-      "tags": ["best seller", "men", "spring", "winter"]
-    },
-    {
-      "name": "Maison Margiela Replica Autumn Vibes",
-      "description": "Hương đầu: Bạch đậu khấu, Tiêu hồng\nHương giữa: Nhục đậu khấu, Lá phong, Hạt cà rốt\nHương cuối: Tuyết tùng, Rêu sồi\n\nMùa thu trong bạn có mùi gì? Liệu chúng có phải là mùi len mới của những chiếc khăn choàng cổ, mùi ngọt ấm của những ly chocolate nóng hổi, hay mùi của những đợt gió lạnh mới đang tràn về? Với Maison Margiela Replica Autumn Vibes, ấy là mùi của những chiếc lá khô, giòn rụm, quyện cùng hương gỗ và pha chút hăng cay như muốn vớt vát những ấm nóng của mùa hè.",
-      "category": "men's",
-      "brand": "other",
-      "price": 3200000,
-      "capacity": 100,
-      "srcImage": "https://product.hstatic.net/1000340570/product/autumm-vibes-100ml_442bdd03d0c3447ea2b5507389323fd0_master.jpg",
-      "id": "1658991623343",
-      "tags": ["new", "men", "women", "winter", "spring"]
-    },
-    {
-      "name": "Hermes Terre d'Hermes Eau Givree Travel Spray",
-      "description": "Thương hiệu\nHermes\nXuất xứ\nPháp\nNăm phát hành\n2022\nNhóm hương\nQuả thanh yên, Bách xù, Hạt tiêu tứ xuyên\nPhong cách\nNam tính, Tươi mát, Quyến rũ",
-      "category": "women's",
-      "brand": "other",
-      "price": 750000,
-      "capacity": 15,
-      "srcImage": "https://product.hstatic.net/1000340570/product/eau-grivee-15ml_b7a11b662b6c4c1fa683f4570d907cd5_master.jpg",
-      "id": "1658991694915",
-      "tags": ["women", "spring", "autumn"]
-    },
-    {
-      "name": "Narciso Rodriguez Musc Noir Rose For Her",
-      "description": "Hương đầu: Cam Bergamot, Tiêu Hồng \n\nHương giữa: Xạ hương, Hoa Huệ, Mận\n\n Hương cuối: Vanilla, Hoắc Hương, Da thuộc \n\nTrước khi nói thêm điều gì về Musc Noir Rose, thì ta phải nhấn mạnh rằng, dù mang cái tên Rose, nhưng ấn phẩm mùi hương này từ nhà Narciso lại không hề chưng cất chút tinh chất nào của Hoa hồng. Mà đúng hơn, Rose ở đây ám chỉ cho sắc hồng qua ánh nhìn của người thiếu nữ, và cũng là tông màu chủ đạo cho thiết kế chai. \n\nẤy vậy, khi đào sâu hơn về ý nghĩa của mùi hương, bóc tách từng lớp, ta sẽ thật sự nhận ra với khứu giác tinh tường của mình, rằng những cá thể đơn lẻ khi hợp lại sẽ tạo nên thứ hương bồng bềnh, vui tươi và dễ yêu như chính sắc hồng mà Musc Noir Rose mang. ",
-      "category": "women's",
-      "brand": "other",
-      "price": 3000000,
-      "capacity": 100,
-      "srcImage": "https://product.hstatic.net/1000340570/product/narciso-rodriguez-musc-noir-rose-for-her-100ml_de6283c834f94123b44ba9ad74a15445_master.jpg",
-      "id": "1658991781097",
-      "tags": ["new", "women", "autumn", "spring"]
-    },
-    {
-      "name": "Narciso Eau Néroli Ambrée",
-      "description": "Hương đầu: Hoa Sứ, Hoa Neroli\nHương giữa: Xạ Hương và Hoa Cam; \nHương cuối: Hổ Phách, Cashmeran và Tuyết Tùng.\n\nĐược ra mắt vào năm 2021, Narciso Eau Néroli Ambrée là tác phẩm hương hoa cỏ do Aurelien Guichard, người đã từng tạo ra siêu phẩm Versace Eros đình đám, chế tác. Vì vậy, mùi hương được mong đợi là sẽ mang đến một làn gió mới mẻ cho nhà mốt Narciso.",
-      "category": "women's",
-      "brand": "other",
-      "price": 2900000,
-      "capacity": 90,
-      "srcImage": "https://product.hstatic.net/1000340570/product/narciso-eau-neroli-ambree.jpg1_99edad3be934496fb64f5deacb1b99de_master.jpg",
-      "id": "1658991992633",
-      "tags": ["new", "women", "spring", "winter"]
-    }
-  ],
+  {
+    "name": "Chanel Chance Eau de Parfum",
+    "description": "Sẽ không có gì xa lạ khi bạn bắt gặp những “thành viên\" với vẻ ngoài góc cạnh, mang hơi thở nồng nàn, mạnh mẽ, chứa đựng cái tôi đầy độc lập và sắc sảo trong “gia tộc nước hoa xa xỉ bậc nhất” - Chanel. Thế nhưng, Chanel Chance Eau Parfum lại chọn cho mình một lối đi hoàn toàn khác hẳn. Như được ấn định những may mắn, niềm vui, “cơ hội” từ lúc chào đời, Chanel Chance Eau Parfum được thiết kế theo hình tròn - vòng tròn của sự may mắn, phúc hậu và thực sự vẹn toàn.\nCó vẻ như nhà chế tác nước hoa đình đám Jacques Polge đã quyết định tạo nên dấu ấn riêng biệt khi “rước về\" một nàng thơ dịu dàng, e ấp và chưa từng xuất hiện trong gia đình Chanel. Nàng thơ ấy bước đến bằng sự dịu dàng, mang theo làn hương nhẹ tựa vô hình, vô định để rồi nhận lại là những ánh mắt đắm say. Chance Eau Parfum mỏng manh như sương mai trong nắng sớm, như cơn gió nhè nhẹ giữa ngày Hè, như âm vị ấm áp của Hồ tiêu thi thoảng thoáng qua rất đỗi bình dị và ung dung.",
+    "category": "women's",
+    "brand": "chanel",
+    "price": 3600000,
+    "capacity": 100,
+    "srcImage": "https://product.hstatic.net/1000340570/product/chanel-chance-eau-de-parfum_05321c8bb4144286babba8159091fb88_master.jpg",
+    "id": 1,
+    "tags": [
+      "women",
+      "winter",
+      "spring"
+    ]
+  },
+  {
+    "name": "YSL La Nuit de L'Homme Le Parfum",
+    "description": "Mang tới dòng hương Oriental Fougere đến từ phương Đông, siêu phẩm La Nuit de L’Homme Le Parfum của Yves Saint Laurent như một bằng chứng thể hiện bản lĩnh và sức mạnh của người đàn ông thời hiện đại.\n\nMột trong những chai nước hoa được ưa chuộng nhất ngay tại thời điểm vừa ra mắt năm 2010, tạo ra sự cân bằng với thiết kế bắt mắt khi thân chai có hình trụ cùng chiếc nắp hình lục giác. La Nuit de L’Homme như lời tuyên bố hương thơm bên trong của mình vô cùng nam tính tính và mạnh mẽ khi lấy tông màu đen làm điểm nhấn cho toàn bộ thiết kế bên ngoài.",
+    "category": "men's",
+    "brand": "ysl",
+    "price": 2500000,
+    "capacity": 100,
+    "discount": 10,
+    "srcImage": "https://product.hstatic.net/1000340570/product/la-nuit-de-l_homme-le-parfum-eau-de-parfum_7e282e95fe6548799b7fdf7881a50517_master.jpg",
+    "id": 2,
+    "tags": [
+      "autumn",
+      "women",
+      "winter",
+      "sale-off"
+    ]
+  },
+  {
+    "name": "YSL Mon Paris Intensement",
+    "description": "Yves Saint Laurent Mon Paris Intensement",
+    "category": "women's",
+    "brand": "ysl",
+    "price": 2600000,
+    "capacity": 90,
+    "srcImage": "https://product.hstatic.net/1000340570/product/yves-saint-laurent-mon-paris-intensement-90ml_3f4a0a32c7dc49d7a218ce03eb5b3826_master.jpg",
+    "id": 3,
+    "tags": [
+      "winter",
+      "autumn",
+      "summer",
+      "new",
+      "women"
+    ]
+  },
+  {
+    "name": "YSL L'Homme Le Parfum 2020",
+    "description": "Với Yves Saint Laurent L'Homme Le Parfum 2020, cũng như bao mùi hương khác, L'Homme Le Parfum cũng gắt gao lựa chọn “đối tượng\" cho riêng mình. Một người đủ nhiệt huyết và tràn trề nhựa sống để có thể xứng đôi với tông vị thanh mát của Chanh vàng và Bạch đậu khấu trong tầng hương đầu, nhưng chỉ trẻ trung thôi vẫn chưa đủ.",
+    "category": "men's",
+    "brand": "ysl",
+    "price": 2300000,
+    "capacity": 100,
+    "srcImage": "https://product.hstatic.net/1000340570/product/32bcb97d7e0b4b208818cbb9c4a21e8e_b9204e9ae2604d6d98d6bdb6ca55c0be_master.jpg",
+    "id": 4,
+    "tags": [
+      "winter",
+      "autumn",
+      "men",
+      "new"
+    ]
+  },
+  {
+    "name": "Gucci Flora Gracious Tuberose",
+    "description": "Hương đầu: Lá hoa tím, Quà đào\nHương giữa: Hoa huệ, Hoa cam, Hoa hồng\nHương cuối: Gỗ tuyết tùng, Labdanum\n\nNếu mùi hương của Gỗ có thể làm ta cảm thấy tĩnh tại và an yên ngay tắp lự, thì hương Hoa lại là thứ thần dược khiến ta bay bổng, hứng khởi và tràn đầy say mê. Và điều này cũng không ngoại lệ với Gucci Flora Gracious Tuberose, hương hoa của sự sống, tôi có thể nói là vậy.",
+    "category": "women's",
+    "brand": "gucci",
+    "price": 2600000,
+    "capacity": 100,
+    "srcImage": "https://product.hstatic.net/1000340570/product/gucci-flora-gracious-tuberose_ded90e4cacd9422fb2a8f8d7f70ec34b_master.jpg",
+    "id": 5,
+    "tags": [
+      "women",
+      "autumn",
+      "winter",
+      "best seller"
+    ]
+  },
+  {
+    "name": "Gucci Moonlight Serenade Scented Water",
+    "description": "Hương chính: Oải hương, Cây xô thơm, đậu Tonka.\n\nBộ sưu tập xa xỉ này được lấy cảm hứng từ xu hướng mới nhất của cách layer mùi hương và bao gồm bảy loại Eau de Parfum, bốn loại tinh dầu nước hoa và ba loại \"nước thơm\". Dòng Gucci được lấy cảm hứng từ nghệ thuật giả kim và nghệ thuật tác chế hương thơm, và nó được thiết kế để được phân lớp và pha trộn với nhau để tạo ra một sự kết hợp hương thơm cá nhân và độc đáo.",
+    "category": "women's",
+    "brand": "gucci",
+    "price": 6200000,
+    "capacity": 150,
+    "srcImage": "https://product.hstatic.net/1000340570/product/guccimoonlight-serenade-scented-water-150ml_3898bba1f1ef4559b9b99d28c036388d_master.jpg",
+    "id": 6,
+    "tags": [
+      "new",
+      "spring",
+      "women",
+      "autumn"
+    ]
+  },
+  {
+    "name": "Gucci Bloom Profumo Di Fiori",
+    "description": "Hương đầu: Tinh chất hoa nhài Sambac, Rangoon Creeper (Chinese Osmanthus)\nHương giữa: Ylang-Ylang, Hoa huệ tự nhiên, Nụ hoa nhài\nHương cuối: Gỗ đàn hương, gỗ ướt đẫm nắng, Orris, Benzoin, Musks\n\nDòng nước hoa nổi tiếng của GUCCI BLOOM, bắt đầu với dòng nước hoa Gucci Bloom đầu tiên vào năm 2017 lại một lần nữa khuấy động không khí mùa Hè trong năm 2020 với mùi hương GUCCI BLOOM PROFUMO DI FIORI. “Gương mặt mới” trong địa đàng Gucci Bloom mê hoặc khứu giác bởi hương thơm nhiệt đới ấm áp và cảm hứng đầy kích thích từ hoa ylang-ylang pha trộn với những bông hoa trắng say đắm và hợp âm vốn đã nổi tiếng được tìm thấy trong tất cả các loại nước hoa Gucci Bloom: rangoon creeper, còn được gọi là osmanthus Trung Quốc (Combretum indicum), cây nho đỏ cụm hoa và có nguồn gốc từ vùng nhiệt đới châu Á.",
+    "category": "women's",
+    "brand": "gucci",
+    "price": 3500000,
+    "capacity": 100,
+    "discount": 15,
+    "srcImage": "https://product.hstatic.net/1000340570/product/gucci-bloom-profumo-di-fiori-30ml_f27dc29088f048b1a3418d5501030621_master.jpg",
+    "id": 7,
+    "tags": [
+      "women",
+      "autumn",
+      "spring",
+      "new",
+      "sale-off"
+    ]
+  },
+  {
+    "name": "Versace Eros Parfum",
+    "description": "Thương hiệu\nVersace\nXuất xứ\nÝ\nNăm phát hành\n2021\nNhóm hương\nĐậi tonka, Hổ phách, Táo xanh\nPhong cách\nNam tính, Mạnh mẽ, Cuốn hút",
+    "category": "men's",
+    "brand": "versace",
+    "price": 2700000,
+    "capacity": 100,
+    "srcImage": "https://product.hstatic.net/1000340570/product/eros-parfum-box-_b94579cb6bb246d98166e03ddf31d973_master.jpg",
+    "id": 8,
+    "tags": [
+      "new",
+      "men",
+      "autumn",
+      "winter",
+      "new"
+    ]
+  },
+  {
+    "name": "Versace Pour Homme",
+    "description": "Hương đầu: Quả chanh vàng, Cam Bergamot, Neroli, Hoa hồng tháng 5. \n\nHương giữa: Hoa lục bình, Gỗ tuyết tùng, Xô thơm, Hoa phong lữ. \n\nHương cuối: Đậu Tonka, Xạ hương, Amber. \n\nĐến từ bàn tay của nhà điều hương được mệnh danh là “chuyên gia hương tươi” Alberto Morillas, Versace Pour Homme đem tới cho phải mạnh một mùi hương Aromatic Fougere (Thảo mộc - Dương xỉ) nhẹ nhàng và đầy thanh lịch. ",
+    "category": "men's",
+    "brand": "versace",
+    "price": 1800000,
+    "capacity": 100,
+    "srcImage": "https://product.hstatic.net/1000340570/product/versace-pour-homme-5ml_4f5a3167c830426983deecb1b85b03e0.jpg",
+    "id": 9,
+    "tags": [
+      "new",
+      "men",
+      "winter",
+      "spring",
+      "new"
+    ]
+  },
+  {
+    "name": "Versace Bright Crystal",
+    "description": "Hương đầu: Lựu, Yuzu, Nước đá\nHương giữa: Hoa Sen, Hoa Mẫu Đơn, Hoa Mộc Lan\nHương cuối: Hổ phách, Xạ hương, Gỗ Gụ\n\nNếu như Xuân được xem là mùa đẹp nhất trong năm, là mùa mà vạn vật đều xao xuyến và nao nức mỗi khi nhắc đến. Thì Versace Bright Crystal được ví như là mùi của mùa Xuân, mùi của sự khởi đầu cho những điều đẹp đẽ nhất.",
+    "category": "women's",
+    "brand": "versace",
+    "price": 1200000,
+    "capacity": 30,
+    "srcImage": "https://product.hstatic.net/1000340570/product/versace-bright-crystal-200ml_2a7b83967e834258900f17f2447005a8_master.jpg",
+    "id": 10,
+    "tags": [
+      "new",
+      "women",
+      "autumn",
+      "spring",
+      "best seller"
+    ]
+  },
+  {
+    "name": "Prada Luna Rossa Sport Eau de Toilette",
+    "description": "Hương đầu: Quả bách xù và gừng\nHương giữa: Hoa oải hương\nHương cuối: Đậu Tonka và Vanila.\n\nPrada Luna Rossa Sport là mùi hương mới nằm trong bộ sưu tập Luna Rossa mở rộng của nhà Prada sau khi phiên bản đầu tiên được ra mắt vào năm 2012, bao gồm: Luna Rossa 34th American's cup limited edition và Luna Rossa Extreme ra mắt cùng năm 2013.",
+    "category": "women's",
+    "brand": "prada",
+    "price": 2500000,
+    "capacity": 100,
+    "srcImage": "https://product.hstatic.net/1000340570/product/prada-luna-rossa-sport-eau-de-toilette-100ml_b7576b93acb04da3ab501b74ee55aedc_master.jpg",
+    "id": 11,
+    "tags": [
+      "best-seller",
+      "new",
+      "men",
+      "autumn",
+      "winter",
+      "best seller"
+    ]
+  },
+  {
+    "name": "Prada La Femme Water Splash",
+    "description": "Hương đầu: Lá Quýt, Quả Quýt\nHương giữa:  Hoa Sử, Mộc Lan, Lily of the Valley\nHương cuối: Gỗ Đàn Hương, Nốt Hương Xanh \n\nÝ tưởng dòng nước hoa phiên bản giới hạn mới nhất của Prada - La Femme Prada Water Splash vẽ nên một bức tranh sắc nét về một kỳ nghỉ lý tưởng: Mùi hương này là sự pha trộn giữa sự ấm áp và mát mẻ sảng khoái, tái hiện lại cảm giác những ngày nằm trên bãi biển rộng, làn nước rực rỡ, những cơn sóng rì rào, làn gió đưa đẩy và ánh nắng chiếu qua kẽ lá chạm đến làn da.",
+    "category": "women's",
+    "brand": "prada",
+    "price": 2300000,
+    "capacity": 150,
+    "srcImage": "https://product.hstatic.net/1000340570/product/prada_la_femme_water_splash_for_women_edt_6a4ab6de2eb1470d86b09b171f96280a_master.jpg",
+    "id": "1658990861554",
+    "tags": [
+      "new",
+      "women",
+      "autumn",
+      "summer",
+      "spring"
+    ]
+  },
+  {
+    "name": "Prada L'Homme Intense",
+    "description": "Hương Đầu: Hoa Diên Vĩ\nHương Giữa: Quảng Hoắc Hương, Hổ Phách\nHương Cuối: Da Thuộc, Đậu Tonka, Gỗ Đàn Hương\n\nBộ đôi nước hoa mới của Prada, Prada La Femme và Prada L'Homme, ra mắt thị trường vào giữa năm 2016. Một năm sau, các chế phẩm được cải tiến ở nồng độ Eau de Parfum Intense và đã mang lại những tiếng tăm vang dội trong giới mộ điệu mùi hương",
+    "category": "men's",
+    "brand": "prada",
+    "price": 2300000,
+    "capacity": 100,
+    "discount": 17,
+    "srcImage": "https://product.hstatic.net/1000340570/product/prada-l_homme-intense-100ml_9de992acd705435db4070c08f64e2680_master.jpg",
+    "id": "1658991295712",
+    "tags": [
+      "men",
+      "winter",
+      "summer",
+      "new",
+      "sale-off"
+    ]
+  },
+  {
+    "name": "Chanel No 5 Eau Premiere EDP",
+    "description": "Notes list:\nHương đầu: Aldehydes, Hoa hoàng lan, Hoa cam.\nHương giữa: Hoa nhài, Hoa hồng.\nHương cuối: Vanilla, Gỗ đàn hương, Cỏ hương bài.\n\nChanel No 5 Eau Premiere Eau de Parfum được ra mắt năm 2015, là một mùi hương thuộc nhóm Hương hoa – An đê hít (Floral – Aldehydé), flanker của mùi hương huyền thoại Chanel No 5 của nhà mốt Pháp Chanel. Chanel No 5 Eau Premiere Eau de Parfum được pha chể qua chiếc mũi của Jacques Polge, được giới thiệu như là một mùi hương mang DNA của No 5 với các notes hương chính của người chị cả vượt thời gian nhưng được phối hợp hài hòa và tinh tế hơn, đem lại một cảm giác hiện đại hơn, nhẹ nhàng hơn.",
+    "category": "women's",
+    "brand": "chanel",
+    "price": 2500000,
+    "capacity": 50,
+    "srcImage": "https://product.hstatic.net/1000340570/product/chanel-no-5-eau-premiere-eau-de-parfum-50ml_34baf822c99142d0ba15f775e97aba44_master.jpg",
+    "id": "1658991413703",
+    "tags": [
+      "women",
+      "winter",
+      "spring",
+      "best seller"
+    ]
+  },
+  {
+    "name": "Chanel Chance Eau Tendre Eau de Toilette",
+    "description": "Nốt hương đầu : Bưởi , Mộc qua\nNốt hương giữa : Nhài, Dạ lan hương\nNốt hương cuối : Iris, Xạ Hương, Hổ phách\n\nThứ vũ khí mạnh nhất của một người phụ nữ nằm ở sự dịu dàng của họ, và cách tốt nhất để trình diễn sự dịu dàng ấy chính là qua mùi hương. Chanel Chance Eau Tendre bỗng dưng hiện lên trong đó, chất lỏng màu hồng phấn chứa đựng thứ tình dược nguy hiểm dụ dỗ cánh đàn ông. Trẻ trung, năng động giống một làn gió mát của mùa hè, thơm hương Bưởi và trái Mộc qua , đơn giản nhưng đồng thời cũng thật lạ kỳ , chỉ làm bản thân muốn được đắm chìm trong chính dự mềm mại đó. “ Cơ hội “ , một sự an bài của số phận , là khi hai tâm hồn hoà làm một , để bị mê hoặc bởi sự lãng mạn đầy thú vị này. Hoa nhài và Dạ lan hương trộn lẫn vào nhau, hài hoà , đẹp đẽ như có thể khiến các chàng trai chìm ngập bởi thứ tình yêu ngọt ngào đó. Đẳng cấp và sang trọng nhưng vẫn không kém phần trẻ trung, khiêu khích trí tò mò của người khác để rồi khi yêu luôn tựa như phút ban đầu. Hơi ấm của Xạ hương và Hổ phách kết hợp lại tạo nên một sự nồng nhiệt vô bờ bến, cùng hương hoa Iris đặt lên đỉnh , dũng cảm và đầy khí chất. Sự tình cờ và nhẹ nhàng trong tình yêu. “ You deserve all the tenderness on the earth “.",
+    "category": "women's",
+    "brand": "chanel",
+    "price": 3300000,
+    "capacity": 100,
+    "srcImage": "https://product.hstatic.net/1000340570/product/chance-eau-tendre-eau-de-toilette_b23760df1dd5424c85e273af02d2b948_master.jpg",
+    "id": "1658991467628",
+    "tags": [
+      "new",
+      "women",
+      "winter",
+      "spring"
+    ]
+  },
+  {
+    "name": "Chanel Bleu De Chanel EDP",
+    "description": "Hương đầu: Chanh vàng, Ớt hồng, Bạc hà\nHương giữa: Dưa vàng, Hoa nhài, Gừng\nHương cuối: Gỗ tuyết tùng, Hổ phách, Gỗ đàn hương\n\nNước hoa Bleu de Chanel Eau de Parfum là bản nâng cấp của người đàn anh đi trước Bleu de Chanel Eau de Toilette, ra đời vào mùa hè 2014, Jacques Polge đã không làm những fan nước hoa trung thành của nhà Chanel phải thất vọng. \"Nó còn hơn cả sự mong đợi của chúng tôi\" là câu nói hầu hết của những khách hàng may mắn đầu tiên sở hữu Bleu de Chanel Eau de Parfum tại Paris vào ngày ra mắt. So với bản gốc, Bleu de Chanel Eau de Parfum hể hiện sự nam tính một cách nổi bật hơn, với hương Chanh vàng, Ớt hồng, sự từng trải và tinh tế của một người đàn ông dày dạn kinh nghiệm được bộc lộ một cách trực tiếp và rõ ràng hơn bao giờ hết. Kết thúc hương đầu với sự thanh mát của Bạc hà, là mùi của một người đàn ông manly vừa mới bước ra từ phòng tắm mát lạnh. Bleu de Chanel Eau de Parfum khiến nhiều trái tim phải rung động với sự mạnh mẽ của Gừng, nhưng ẩn chứa sự lịch lãm của Hương hoa nhài quyện lẫn với Dưa vàng. Hãy thử tiến lại gần Bleu de Chanel Eau de Parfum để cảm nhận rõ sự nam tính đáng kinh ngạc đó vào cuối những buổi tiệc, khi Gỗ tuyết tùng và Hổ phách đã cám dỗ bạn bằng sự gần gũi và ấm áp đến bất ngờ.",
+    "category": "men's",
+    "brand": "chanel",
+    "price": 3500000,
+    "capacity": 100,
+    "srcImage": "https://product.hstatic.net/1000340570/product/chanel-bleu-de-chanel-eau-de-parfum-50ml_b9f927221713402b80430643f301d16d_master.jpg",
+    "id": "1658991521397",
+    "tags": [
+      "best seller",
+      "men",
+      "spring",
+      "winter"
+    ]
+  },
+  {
+    "name": "Maison Margiela Replica Autumn Vibes",
+    "description": "Hương đầu: Bạch đậu khấu, Tiêu hồng\nHương giữa: Nhục đậu khấu, Lá phong, Hạt cà rốt\nHương cuối: Tuyết tùng, Rêu sồi\n\nMùa thu trong bạn có mùi gì? Liệu chúng có phải là mùi len mới của những chiếc khăn choàng cổ, mùi ngọt ấm của những ly chocolate nóng hổi, hay mùi của những đợt gió lạnh mới đang tràn về? Với Maison Margiela Replica Autumn Vibes, ấy là mùi của những chiếc lá khô, giòn rụm, quyện cùng hương gỗ và pha chút hăng cay như muốn vớt vát những ấm nóng của mùa hè.",
+    "category": "men's",
+    "brand": "other",
+    "price": 3200000,
+    "capacity": 100,
+    "srcImage": "https://product.hstatic.net/1000340570/product/autumm-vibes-100ml_442bdd03d0c3447ea2b5507389323fd0_master.jpg",
+    "id": "1658991623343",
+    "tags": [
+      "new",
+      "men",
+      "women",
+      "winter",
+      "spring"
+    ]
+  },
+  {
+    "name": "Hermes Terre d'Hermes Eau Givree Travel Spray",
+    "description": "Thương hiệu\nHermes\nXuất xứ\nPháp\nNăm phát hành\n2022\nNhóm hương\nQuả thanh yên, Bách xù, Hạt tiêu tứ xuyên\nPhong cách\nNam tính, Tươi mát, Quyến rũ",
+    "category": "women's",
+    "brand": "other",
+    "price": 750000,
+    "capacity": 15,
+    "srcImage": "https://product.hstatic.net/1000340570/product/eau-grivee-15ml_b7a11b662b6c4c1fa683f4570d907cd5_master.jpg",
+    "id": "1658991694915",
+    "tags": [
+      "women",
+      "spring",
+      "autumn"
+    ]
+  },
+  {
+    "name": "Narciso Rodriguez Musc Noir Rose For Her",
+    "description": "Hương đầu: Cam Bergamot, Tiêu Hồng \n\nHương giữa: Xạ hương, Hoa Huệ, Mận\n\n Hương cuối: Vanilla, Hoắc Hương, Da thuộc \n\nTrước khi nói thêm điều gì về Musc Noir Rose, thì ta phải nhấn mạnh rằng, dù mang cái tên Rose, nhưng ấn phẩm mùi hương này từ nhà Narciso lại không hề chưng cất chút tinh chất nào của Hoa hồng. Mà đúng hơn, Rose ở đây ám chỉ cho sắc hồng qua ánh nhìn của người thiếu nữ, và cũng là tông màu chủ đạo cho thiết kế chai. \n\nẤy vậy, khi đào sâu hơn về ý nghĩa của mùi hương, bóc tách từng lớp, ta sẽ thật sự nhận ra với khứu giác tinh tường của mình, rằng những cá thể đơn lẻ khi hợp lại sẽ tạo nên thứ hương bồng bềnh, vui tươi và dễ yêu như chính sắc hồng mà Musc Noir Rose mang. ",
+    "category": "women's",
+    "brand": "other",
+    "price": 3000000,
+    "capacity": 100,
+    "srcImage": "https://product.hstatic.net/1000340570/product/narciso-rodriguez-musc-noir-rose-for-her-100ml_de6283c834f94123b44ba9ad74a15445_master.jpg",
+    "id": "1658991781097",
+    "tags": [
+      "new",
+      "women",
+      "autumn",
+      "spring"
+    ]
+  },
+  {
+    "name": "Narciso Eau Néroli Ambrée",
+    "description": "Hương đầu: Hoa Sứ, Hoa Neroli\nHương giữa: Xạ Hương và Hoa Cam; \nHương cuối: Hổ Phách, Cashmeran và Tuyết Tùng.\n\nĐược ra mắt vào năm 2021, Narciso Eau Néroli Ambrée là tác phẩm hương hoa cỏ do Aurelien Guichard, người đã từng tạo ra siêu phẩm Versace Eros đình đám, chế tác. Vì vậy, mùi hương được mong đợi là sẽ mang đến một làn gió mới mẻ cho nhà mốt Narciso.",
+    "category": "women's",
+    "brand": "other",
+    "price": 2900000,
+    "capacity": 90,
+    "srcImage": "https://product.hstatic.net/1000340570/product/narciso-eau-neroli-ambree.jpg1_99edad3be934496fb64f5deacb1b99de_master.jpg",
+    "id": "1658991992633",
+    "tags": [
+      "new",
+      "women",
+      "spring",
+      "winter"
+    ]
+  },
+  {
+    "name": "Dior Homme Intense",
+    "description": "Hương Đầu: Hoa Oải Hương (Lavender)\nHương giữa: Hoa diên vĩ, Cây vông vang, Quả lê\nHương cuối: Cỏ hương bài, Gỗ tuyết tùng Virginia\n\nChắc hẳn bạn đã từng nghe rất nhiều về những mùi hương nước hoa được miêu tả bằng chữ \"đẹp\" dành cho phái nữ, nhưng từ đẹp rất khi khi được dùng cho nước hoa Nam, hẳn bởi phái mạnh không quen dùng từ ngữ đó. Nhưng với rất nhiều người khi tiếp xúc với Dior Homme Intense, khái niệm mùi hương \"đẹp\" sẽ được dành tặng cho gã đàn ông này một cách thuyết phục. Dior Homme Intense được ví như là một kẻ gây nghiện, gây nghiện với chính người dùng, và lây lan cái \"nghiện\" đó cho cả những người xung quanh. Một ngày mưa gió, lạnh lẽo, tỉnh giấc cùng bầu trời xám xịt đen sì ngoài kia, cách tốt nhất để làm hài lòng bản thân là xịt một shot Dior Homme Intense vào cơ thể và đi ngủ tiếp, như thể nó sẽ mang lại sự thư giãn tuyệt đối, bình yên vô điều kiện cho bất kỳ chàng trai nào. Ở khía cạnh gây ấn tượng với phái nữ, mang trong mình mùi hương Lavender đầy sự cám dỗ, tinh tế cùng Hoa diên vĩ và cây vông vang, Dior Homme Intense thúc dục và dễ dàng tháo gỡ mọi rào cản một cách diệu kỳ, biến những thứ tưởng lạ mà trở thành quen một cách thú vị. Chàng trai nhà Dior này được nhiều người đặt cho cái biệt danh bảnh trai nhưng khá lười biếng, cũng chính vì vậy mà mọi cô gái đều muốn được chăm sóc và ở bên cạnh để hỗ trợ hết mình cho gã đàn ông đào hoa bẩm sinh này. ",
+    "category": "men's",
+    "brand": "dior",
+    "price": 3600000,
+    "capacity": 100,
+    "discount": 11,
+    "srcImage": "https://product.hstatic.net/1000340570/product/dior-homme-intense--100ml_24337db5e73344cd808631b2919ea6db_master.jpg",
+    "id": "1659324584820",
+    "tags": [
+      "sale-off",
+      "men",
+      "winter",
+      "spring"
+    ]
+  },
+  {
+    "name": "Dior JOY by Dior",
+    "description": "Hương đầu: Cam Bergamot, Quả quýt hồng\nHương giữa: Hoa hồng Grasse, Hoa nhài\nHương cuối: Gỗ đàn hương, Gỗ tuyết tùng, Xạ hương trắng.\n\nJoy by Dior xuất hiện vào cuối tháng 8 năm 2018 với mùi hương đại diện cho những niềm vui của cuộc sống, như cái tên hãng đặt cho cô nàng này \"Joy\". Là một mùi hương chứa năng lượng, sự sống, hạnh phúc và của những \"tâm trạng tốt\", đó là cách hãng giới thiệu Joy by Dior vào ngày ra mắt sản phẩm mới này. Hương thơm của Joy được chiếu sáng bởi nụ cười rực rỡ của Hoa hồng Grasse và Hoa nhài, pha trộn cùng sự ngọt ngào và sống động của Cam Bergamot và Trái quýt. Joy by Dior còn được ưu ái gửi gắm lời thì thầm ngọt ngào của Gỗ tuyết tùng và Xạ hương trắng, biến cô nàng trở nên gợi cảm một cách đầy bất ngờ. Joy by Dior có lẽ là một dòng nước hoa không thể thiếu dành cho những cô nàng nữ tính, gợi cảm và sang trọng, bởi có Joy đồng nghĩa với việc bạn đang có niềm vui, liệu một chàng trai có thể bỏ qua một cô nàng xinh đẹp rạng rỡ và biết cách tỏa sáng mọi lúc hay không? Câu trả lời chắn chắn là không. ",
+    "category": "women's",
+    "brand": "dior",
+    "price": 3100000,
+    "capacity": 90,
+    "discount": 11,
+    "srcImage": "https://product.hstatic.net/1000340570/product/joy-mini_0b1096e7e4af4c64a780c546bfa36a25.jpg",
+    "id": "1659324661379",
+    "tags": [
+      "sale-off",
+      "women",
+      "autumn",
+      "spring"
+    ]
+  },
+  {
+    "name": "Versace Pour Homme Dylan Blue",
+    "description": "Hương đầu: Hương nước, Cam Bergamot Calabria, Quả bưởi\nHương giữa: Lá hoa tím, Cây hoắc hương, Tiêu đen, Hương Ambroxan\nHương cuối: Xạ hương, Nhang (Hương), Đậu Tonka, \n\nVersace Pour Homme Dylan Blue được ra mắt vào cuối tháng 7 năm 2016, là một chai nước hoa mới nhất của dòng Versace Pour Homme. Với nhiều người, hẳn sẽ để ý đến thiết kế chai rất sang trọng và tinh tế, nhưng với tôi, tôi chú đến màu xanh đậm của Versace Pour Homme Dylan Blue nhiều hơn. Nó tạo cả giác gần gũi đến lạ kỳ, màu xanh nước biển, màu xanh đậm của bầu trời, và tôi đã không hề sai, Dylan Blue chứa hương thơm của nước, xanh trong và tinh khiết. Lần đầu tiên tiếp xúc với chàng trai này, tôi đã hiểu được lý do vì sao đây là một trong những best saler của hàng Versace, một hương vị thanh mát, tự do và phóng khoáng đến bất ngờ với Cam Bergamot và Trái bưởi tươi. Versace Pour Homme Dylan Blue còn hấp dẫn khứu giác bất kỳ ai với sự nam tính của Hương Ambroxan và sự gai góc, cá tính của Tiêu đen. Chàng trai này lịch thiệp, thời thượng, trẻ trung và đủ sự ngọt ngào, ân cần với Xạ hương và Đậu tonka, mê hoặc mọi ánh nhìn bởi chính sự đào hoa bẩm sinh vốn có. ",
+    "category": "men's",
+    "brand": "versace",
+    "price": 2400000,
+    "capacity": 100,
+    "discount": 24,
+    "srcImage": "https://product.hstatic.net/1000340570/product/versace-dylan-blue-pour-homme-1_c193cb8878014c1ca4e02eec70d923b2_master.jpg",
+    "id": "1659324798580",
+    "tags": [
+      "sale-off",
+      "men",
+      "autumn",
+      "summer"
+    ]
+  },
+  {
+    "name": "Versace Eros Pour Femme EDP",
+    "description": "Hương đầu: Chanh vàng Sicili, Cam Bergamot, Quả lựu\nHương giữa: Hoa chanh vàng, Hoa nhài Sambac, Hoa nhài, Hoa mẫu đơn\nHương cuối: Gỗ đàn hương, Hương Ambroxan, Xạ hương, Hương gỗ\n\nMột trong số những phiên bản đặc biệt đứng dưới cái tên Eros, thương hiệu Versace tiếp tục ra mắt Eros Pour Femme EDP nhằm tôn vinh sức hút vô cùng đặc biệt của nó dành riêng cho giới nữ hiện đại. Đại diện cho vị thần tình yêu Eros huyền thoại của Hy Lạp, Pour Femme kế thừa sự tươi mới đầy cuốn hút thông qua những tinh chất Chanh vàng Sicili, Cam Bergamot và Quả lựu. Nhờ sự khéo léo được đưa vào gợi lên nét mềm mại, dịu dàng của các nốt hương Hoa ở tầng hương giữa kết hợp cùng nền Gỗ đàn hương, Ambroxan, Xạ hương nên Eros Pour Femme mang đến sự quyến rũ vô cùng nổi bật mỗi khi bất kỳ ai sử dụng nó.",
+    "category": "women's",
+    "brand": "versace",
+    "price": 2700000,
+    "capacity": 100,
+    "discount": 14,
+    "srcImage": "https://product.hstatic.net/1000340570/product/versace-eros-pour-femme-eau-de-parfum-50ml_a1483f0e8404483db83c700b6f742ef7_master.jpg",
+    "id": "1659324875897",
+    "tags": [
+      "sale-off",
+      "women",
+      "summer",
+      "winter"
+    ]
+  },
+  {
+    "name": "Prada Candy",
+    "description": "Hương đầu: Caramel\nHương giữa: Hương Phấn, Xạ Hương\nHương cuối: Benzoin, Vani\n\nDù bạn ở bất kỳ độ tuổi nào, một viên kẹo luôn biết cách vỗ về cảm xúc của bạn và Prada Candy chính là viên kẹo dành riêng cho cảm xúc.\n\nPrada Candy đã mô phỏng hoàn hảo khoảnh khắc tan chảy của từng tinh thể ngọt ngào thấm vào khứu giác, dẫn truyền đến cả vị giác khiến bạn cảm nhận được niềm vui và sự phấn khởi vỡ oà như được thưởng thức lại viên kẹo của tuổi thơ, của những ngày hồn nhiên tuyệt đẹp.\n\nDù vị ngọt là yếu tố chủ đạo xuyên suốt cả bố cục của mùi hương, nhưng sự tối giản trong thành phần giúp kết cấu vị ngọt trở nên cân bằng, cả Caramel, Hương phấn, Xạ hương, Benzoin và Vani gần như đều tiến về vị trí trung tâm để bạn cảm thụ từng thành phần một cách rõ nét, tuy nhiên, như một hiệp ước đã được thoả thuận, chúng không chọn cách “chen lấn\" nhau để làm mọi thứ trở nên phức tạp mà hương thơm, mùi vị nhẹ nhàng, hoà lẫn vào nhau tinh tế. Prada Candy như một cô nàng luôn biết cách truyền những cảm xúc tích cực, góp thêm niềm vui, sự rộn ràng cho cảm xúc của những người xung quanh.",
+    "category": "women's",
+    "brand": "prada",
+    "price": 2800000,
+    "capacity": 80,
+    "discount": 25,
+    "srcImage": "https://product.hstatic.net/1000340570/product/prada_candy_edp_d2b98e76da2945639443233d86dca9e4_master.jpg",
+    "id": "1659324992423",
+    "tags": [
+      "sale-off",
+      "women",
+      "summer",
+      "autumn"
+    ]
+  },
+  {
+    "name": "Dolce & Gabbana The One Royal Night Exclusive Edition For Men",
+    "description": "Hương đầu: Lá húng tây, Thảo quả\nHương giữa: Nhục đậu khấu, Gỗ cây lê\nHương cuối: Hổ phách, Đàn hương, Labdanum, Tuyết tùng\n\nKhi ta rũ bỏ hết mọi lớp lang phép tắc và những vỏ bọc của cái tôi, điều gì sẽ ở lại giữa những mối quan hệ? Tôi tin rằng sự chân thành sẽ luôn thường trực trong mọi tầng số rung động giữa chúng ta. Nó đến từ những điều nhỏ nhặt nhất, như một cái cây thảo dược nhỏ bé nhưng lại có khả năng lan toả và xoa dịu mọi tâm hồn. \n\nCó lẽ chính vì vậy mà Dolce & Gabbana The One Royal Night Exclusive mang tới những lớp hương đầu tiên rất đỗi giản dị của lá húng tây và thảo quả, nhẹ nhàng len lỏi tới mọi ngóc ngách để đảm bảo ta luôn cảm thấy dễ chịu. Sự chân thành cũng giống như khi mà một người đàn ông có thể tiết lộ cái vẻ yếu đuối thực sự bên trong mình, chính là lúc mà anh ta trở nên quyến rũ và đàn ông nhất. Hương gỗ nồng nàn đầy nam tính của Nhục đậu khấu và Gỗ cây lê như quyện vào thân thể, dõi theo từng cử chỉ ấm áp của người đàn ông ta yêu.",
+    "category": "men's",
+    "brand": "other",
+    "price": 2600000,
+    "capacity": 100,
+    "discount": 22,
+    "srcImage": "https://product.hstatic.net/1000340570/product/the-one-royal-night-dolce_gabbana-for-men_b31f77db04c54cecb607eccea99478e3_master.jpg",
+    "id": "1659325123806",
+    "tags": [
+      "sale-off",
+      "men",
+      "winter",
+      "spring"
+    ]
+  },
+  {
+    "name": "Dolce & Gabbana The One Sport",
+    "description": "Hương Đầu: Hương nước, Cây hương thảo\n\nHương giữa: Bạch đậu khấu, Hương gỗ Sequoia\n\nHương cuối: Xạ hương, Cây hoắc hương\n\nSau những thành công của \"đàn anh\" là The One for Men từ năm năm 2008 và The One Gentlemen từ năm 2010. Nhà Dolce&Gabbana tiếp nối dòng nước hoa nam THE ONE bằng đứa con The One Sport vào năm 2012, với mùi hương tươi mát và năng động hơn.\nSinh ra với mục đích dành cho những người đàn ông năng động, phóng khoáng, ở các nốt hương đầu đều mang hơi gió của biển, sự mát mẻ và trong lành của những buổi bóng chuyền bãi biển được tô điểm nhẹ nhàng bằng cây hương thảo.\nTất cả sự năng động ấy lại uyển chuyển nhẹ nhàng sang sự ngọt ngào của Bạch đậu khấu và thanh âm ấm áp của hương gỗ Sequoia. Sau cùng, là biến thể của những khu rừng ẩm, lúc này các hương liệu như xạ hương và hoắc hương được thể hiện rõ nét hơn. The One Sport mang một cảm giác gần gũi bởi cái vẻ thiên nhiên đầy hoang sơ nhưng lại mãnh liệt và tràn đầy sức sống.",
+    "category": "men's",
+    "brand": "other",
+    "price": 2900000,
+    "capacity": 100,
+    "discount": 20,
+    "srcImage": "https://product.hstatic.net/1000340570/product/dolce-_-gabbana-the-one-sport-150ml_3f3ae4846fab49f0bb31cd8c484eec48_master.jpg",
+    "id": "1659325187394",
+    "tags": [
+      "sale-off",
+      "men",
+      "winter",
+      "summer"
+    ]
+  },
+  {
+    "name": "Creed Aventus",
+    "description": "Hương Đầu: Cam Bergamot, Quả lý chua đen, Quả dứa (quả thơm)\nHương giữa: Gỗ Bu-lô, Cây hoắc hương, Hoa hồng\nHương cuối: Xạ hương, Rêu cây sồi, Hương Vani, Long diên hương\n\n\nCreed Aventus tôn vinh sức mạnh, tầm nhìn và sự thành công, lấy cảm hứng từ cuộc sống đầy giai thoại giữa chiến tranh, hòa bình và sự lãng mạn của hoàng đế Napoleon. Nhắc đến Aventus hẳn những ai yêu thích nước hoa đều phải dành cho nó nhiều mỹ từ, và từ ngữ miêu tả về nó một cách chân thật nhất đó là \"vua\" của nước hoa. Aventus là một cổ ngữ, có ý nghĩa là \"thành công\", và Aventus cũng từng là một địa danh bao gồm vùng Louisiana, một khu vực Napoleon cai trị. Chừng ấy thôi để thấy rằng nhà sản xuất nước hoa kinh điển của nước Anh, Creed, một trong những nhà chế tác nước hoa lâu đời nhất trong lịch sử từ những năm 1760 đã gửi gắm và dành mọi tâm huyết cho huyền thoại Creed Aventus. Và ngay cả thiết kế chai cũng hướng tới hình tượng Napoleon cưỡi ngựa ra chiến trường, một sự mạnh mẽ và đầy chất sử thi. Một mùi hương nam tính, thách thức, tự tin, lạc quan và đầy hoài bão dành cho những người giàu tham vọng và chí lớn. Khí chất của Creed Aventus tỏa ra là vậy, quyền lực một cách tuyệt đối. Hương thơm của trái Dứa hòa quyện cùng Xạ hương, đan xen theo từng cung bậc mùi hương của Gỗ Bu-lô tạo nên một cốt cách phi thường, bản lĩnh và có thừa sự cuốn hút. Creed Aventus không dành cho những kẻ yếu đuối, nhút nhát, bởi khi khoác lên lớp giáp Aventus, sự cuốn hút và nể trọng đã được đẩy lên một tầng cao nhất dành cho những người xung quanh. Và bạn cũng đừng bao giờ quên, Creed Aventus đã là một vị vua, sự phục tùng vô điều kiện của những cô gái xung quanh là một điều hiển nhiên và khó tránh khỏi.",
+    "category": "men's",
+    "brand": "other",
+    "price": 9300000,
+    "capacity": 100,
+    "discount": 8,
+    "srcImage": "https://product.hstatic.net/1000340570/product/creed-aventus-100ml_b6ecd86717b548ac9157ccc7c00e2aa6_master.jpg",
+    "id": "1659325322717",
+    "tags": [
+      "sale-off",
+      "men",
+      "summer",
+      "spring",
+      "winter",
+      "autumn",
+      "best seller"
+    ]
+  },
+  {
+    "name": "Creed Royal Oud",
+    "description": "Hương đầu: Chanh vàng, Cam bergamot, Tiêu hồng\nHương giữa: Tuyết tùng, Galbanum, Cây bạch chỉ\nHương giữa: Trầm hương, Đàn hương, Xạ hương\n\nNhận được hàng triệu yêu cầu của các tín đồ yêu thích mùi hương, đặc biệt là Trầm, nhà Creed đã “ưu ái” thiết kế nên Creed Royal Oud với nguồn cảm hứng chính từ Gỗ, Da thuộc, Đá cẩm thạch và Vàng - những yếu tố cực kỳ xa xỉ không thể thiếu trong kiến trúc hoàng gia Ba Tư.\n\nDưới bàn tay chế tác đầy ma thuật của Olivier Creed, Royal Oud ra đời với sứ mệnh tôn vinh lên nét sang trọng, oai nghiêm dành cho cả nam và nữ giới. Với ông, nét đẹp không phân định làn ranh mới là nét đẹp đáng rõ nét nhất..\n\nLấp đầy cảm xúc của ta từ làn hương đầu với Cam, Chanh và Tiêu hồng, Royal Oud nhanh chóng thể hiện được nét thanh thoát nhưng không hề “dễ chơi” nhờ có sự góp mặt của Tiêu hồng nồng cay.\n\nNgay lập tức khẳng định vị thế của bản thân, Tuyết tùng cùng Cây bạch chỉ bập bùng hé lộ nét mạnh mẽ với hương gỗ trầm ổn, từng trải. Không quá cứng nhắc, rập khuôn, Galbanum trong tầng hương tiếp theo len lỏi điểm thêm những đốm màu xanh mởn, thanh thoát của lá cây.",
+    "category": "men's",
+    "brand": "other",
+    "price": 8000000,
+    "capacity": 100,
+    "discount": 5,
+    "srcImage": "https://product.hstatic.net/1000340570/product/creed_royal_oud_22b3558def8e48c38d1c393abd5bc6fb_master.jpg",
+    "id": "1659325392164",
+    "tags": [
+      "best seller",
+      "men",
+      "sale-off",
+      "autumn",
+      "spring",
+      "women"
+    ]
+  },
+  {
+    "name": "Creed Viking Cologne",
+    "description": "Hương đầu: Cam quýt, Tiêu hồng, Chanh vàng, Cam bergamot \n\nHương giữa: Oải hương, Phong lữ, Nhục đậu khấu, Xô thơm, Hương thảo\n\nHương cuối: Cỏ hương bài, Đàn hương, Tuyết tùng, Olibanum, Hoắc hương\n\n \nNếu đã một lần được thử Viking bản gốc, thì ở bản Cologne này, bạn hẳn sẽ ngạc nhiên vì một Viking nhẹ nhàng và quá đỗi tinh tế như thế. Có thể ví von mà nói, Viking Cologne không khác gì một phiên bản trẻ trung hơn của Viking, dễ mến và dễ yêu.\n\n \nDù vẫn giữ nét hương cay chủ đạo, nhưng Viking Cologne lại chọn mở đầu một cách thanh tao và trong trẻo hơn với Cam quýt, Chanh vàng và Cam bergamot. Để rồi sau đó mới bắt đầu dẫn dắt tầng hướng vào những miên man, nồng đượm của Oải hương và Phong lữ. Hương hoa ở đây hẳn nhiên không mềm mịn như bạn hằng tưởng, chúng sắc lẹm, dày và có cho mình chiều sâu nhất định. Xô thơm và Hương thảo lần lượt được thêm vào, nhấn nhá chút hương thơm thảo mộc vào bầu không gian.\n\n \nKhông gì tuyệt với hơn một tầng hương cuối tràn ngập những gỗ là gỗ, và Viking Cologne đã làm thế. Bằng cách kết hợp Cỏ hương bài, Đàn hương, Tuyết tùng lại với nhau, Viking Cologne tự xây dựng lên cho mình lớp hương cuối vững chãi, kiên trung mà không kém phần lịch lãm.",
+    "category": "men's",
+    "brand": "other",
+    "price": 8100000,
+    "capacity": 100,
+    "srcImage": "https://product.hstatic.net/1000340570/product/viking_5280ee4825f649ac92329094c41303b8_master.jpg",
+    "id": "1659325449470",
+    "tags": [
+      "men",
+      "best seller",
+      "new",
+      "winter",
+      "summer"
+    ]
+  }
+],
   "orders": [
   {
     "createAt": "Thứ Năm, 28 tháng 7, 2022",
